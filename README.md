@@ -166,19 +166,19 @@ conda activate yolo3d & python {whole_project\YOLO3Dmain\inference.py的绝对�
 
 1、用yolo3d，根据calib参数，得到3dbound的数值，同时切割成2d框用于接下来的caption，切割的小图片放在output文件夹内，output文件夹内的每个文件夹以图片名字命名(.png 替换成了-png)，内部存放分割的图片切片。
 
-![image-20250318151524192](D:\proj\whole_project\yolo3d-caption\assets\image-20250318151524192.png)
+![image-20250318151524192](assets\image-20250318151524192.png)
 
-![image-20250318151726283](D:\proj\whole_project\yolo3d-caption\assets\image-20250318151726283.png)
+![image-20250318151726283](assets\image-20250318151726283.png)
 
 2、用openai的CLip模型，产生图片的描述。
 
 3、将caption放到3dbound的框内。
 
-![image-20250318152150210](D:\proj\whole_project\yolo3d-caption\assets\image-20250318152150210.png)
+![image-20250318152150210](assets\image-20250318152150210.png)
 
-![66d83577c0d5e0bf4f512cc76bdf04e](D:\proj\whole_project\yolo3d-caption\assets\66d83577c0d5e0bf4f512cc76bdf04e.jpg)
+![66d83577c0d5e0bf4f512cc76bdf04e](assets\66d83577c0d5e0bf4f512cc76bdf04e.jpg)
 
 
 
-![image-20250318152217085](D:\proj\whole_project\yolo3d-caption\assets\image-20250318152217085.png)
+![image-20250318152217085](assets\image-20250318152217085.png)
 
