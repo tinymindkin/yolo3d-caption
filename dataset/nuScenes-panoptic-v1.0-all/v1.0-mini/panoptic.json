@@ -1,0 +1,2022 @@
+[
+  {
+    "token": "9d9bf11fb0e144c8b446d54a8a00184f",
+    "sample_data_token": "9d9bf11fb0e144c8b446d54a8a00184f",
+    "filename": "panoptic/v1.0-mini/9d9bf11fb0e144c8b446d54a8a00184f_panoptic.npz"
+  },
+  {
+    "token": "4f792c8da81e4cb7aca1790654da1c27",
+    "sample_data_token": "4f792c8da81e4cb7aca1790654da1c27",
+    "filename": "panoptic/v1.0-mini/4f792c8da81e4cb7aca1790654da1c27_panoptic.npz"
+  },
+  {
+    "token": "28aaabeb212146a28a511858c09cf20c",
+    "sample_data_token": "28aaabeb212146a28a511858c09cf20c",
+    "filename": "panoptic/v1.0-mini/28aaabeb212146a28a511858c09cf20c_panoptic.npz"
+  },
+  {
+    "token": "c4f1a270736445e185379a80c29a5139",
+    "sample_data_token": "c4f1a270736445e185379a80c29a5139",
+    "filename": "panoptic/v1.0-mini/c4f1a270736445e185379a80c29a5139_panoptic.npz"
+  },
+  {
+    "token": "6a97481174074729a9d0ffa096eaa498",
+    "sample_data_token": "6a97481174074729a9d0ffa096eaa498",
+    "filename": "panoptic/v1.0-mini/6a97481174074729a9d0ffa096eaa498_panoptic.npz"
+  },
+  {
+    "token": "fca0353274424116948fa1f10be1fc29",
+    "sample_data_token": "fca0353274424116948fa1f10be1fc29",
+    "filename": "panoptic/v1.0-mini/fca0353274424116948fa1f10be1fc29_panoptic.npz"
+  },
+  {
+    "token": "bba3bbf8fb5b443d91ce478600ac3b49",
+    "sample_data_token": "bba3bbf8fb5b443d91ce478600ac3b49",
+    "filename": "panoptic/v1.0-mini/bba3bbf8fb5b443d91ce478600ac3b49_panoptic.npz"
+  },
+  {
+    "token": "6d62c08a571148b69ce69a8fca44b72f",
+    "sample_data_token": "6d62c08a571148b69ce69a8fca44b72f",
+    "filename": "panoptic/v1.0-mini/6d62c08a571148b69ce69a8fca44b72f_panoptic.npz"
+  },
+  {
+    "token": "07963799cc9d4a19bd0d9076e4a00da4",
+    "sample_data_token": "07963799cc9d4a19bd0d9076e4a00da4",
+    "filename": "panoptic/v1.0-mini/07963799cc9d4a19bd0d9076e4a00da4_panoptic.npz"
+  },
+  {
+    "token": "6be2618c971046478919fe91a9880bd8",
+    "sample_data_token": "6be2618c971046478919fe91a9880bd8",
+    "filename": "panoptic/v1.0-mini/6be2618c971046478919fe91a9880bd8_panoptic.npz"
+  },
+  {
+    "token": "68dbac351067433883a6303bab0d61ea",
+    "sample_data_token": "68dbac351067433883a6303bab0d61ea",
+    "filename": "panoptic/v1.0-mini/68dbac351067433883a6303bab0d61ea_panoptic.npz"
+  },
+  {
+    "token": "b5baeed9277642debf7abf2bae8c8e90",
+    "sample_data_token": "b5baeed9277642debf7abf2bae8c8e90",
+    "filename": "panoptic/v1.0-mini/b5baeed9277642debf7abf2bae8c8e90_panoptic.npz"
+  },
+  {
+    "token": "ec1f1d29781744cbbd9e2affac55c70e",
+    "sample_data_token": "ec1f1d29781744cbbd9e2affac55c70e",
+    "filename": "panoptic/v1.0-mini/ec1f1d29781744cbbd9e2affac55c70e_panoptic.npz"
+  },
+  {
+    "token": "620c4688ff1043d2aa4ea1d0c0735707",
+    "sample_data_token": "620c4688ff1043d2aa4ea1d0c0735707",
+    "filename": "panoptic/v1.0-mini/620c4688ff1043d2aa4ea1d0c0735707_panoptic.npz"
+  },
+  {
+    "token": "9d4adec20d8a4ba08f2ea4becb6f64b2",
+    "sample_data_token": "9d4adec20d8a4ba08f2ea4becb6f64b2",
+    "filename": "panoptic/v1.0-mini/9d4adec20d8a4ba08f2ea4becb6f64b2_panoptic.npz"
+  },
+  {
+    "token": "f582c6d34c8b403c8f3b66a8bb896892",
+    "sample_data_token": "f582c6d34c8b403c8f3b66a8bb896892",
+    "filename": "panoptic/v1.0-mini/f582c6d34c8b403c8f3b66a8bb896892_panoptic.npz"
+  },
+  {
+    "token": "8ca363317e054bcda00792ebeb46d046",
+    "sample_data_token": "8ca363317e054bcda00792ebeb46d046",
+    "filename": "panoptic/v1.0-mini/8ca363317e054bcda00792ebeb46d046_panoptic.npz"
+  },
+  {
+    "token": "a2491d8dad5548be842fac104d69d52a",
+    "sample_data_token": "a2491d8dad5548be842fac104d69d52a",
+    "filename": "panoptic/v1.0-mini/a2491d8dad5548be842fac104d69d52a_panoptic.npz"
+  },
+  {
+    "token": "aabc5b01953f41158d3069c0733ea152",
+    "sample_data_token": "aabc5b01953f41158d3069c0733ea152",
+    "filename": "panoptic/v1.0-mini/aabc5b01953f41158d3069c0733ea152_panoptic.npz"
+  },
+  {
+    "token": "cb6676be21f34ad39eb93ecbd40aa846",
+    "sample_data_token": "cb6676be21f34ad39eb93ecbd40aa846",
+    "filename": "panoptic/v1.0-mini/cb6676be21f34ad39eb93ecbd40aa846_panoptic.npz"
+  },
+  {
+    "token": "e28319b88b634a2d9eff6fdfa7db5500",
+    "sample_data_token": "e28319b88b634a2d9eff6fdfa7db5500",
+    "filename": "panoptic/v1.0-mini/e28319b88b634a2d9eff6fdfa7db5500_panoptic.npz"
+  },
+  {
+    "token": "dc820c3695754f09aed71d7adc0f2365",
+    "sample_data_token": "dc820c3695754f09aed71d7adc0f2365",
+    "filename": "panoptic/v1.0-mini/dc820c3695754f09aed71d7adc0f2365_panoptic.npz"
+  },
+  {
+    "token": "ea5b7cc72183440d88f625e81354ec74",
+    "sample_data_token": "ea5b7cc72183440d88f625e81354ec74",
+    "filename": "panoptic/v1.0-mini/ea5b7cc72183440d88f625e81354ec74_panoptic.npz"
+  },
+  {
+    "token": "c28ea16a15a94d97afdbf7823282ee4f",
+    "sample_data_token": "c28ea16a15a94d97afdbf7823282ee4f",
+    "filename": "panoptic/v1.0-mini/c28ea16a15a94d97afdbf7823282ee4f_panoptic.npz"
+  },
+  {
+    "token": "4c850e12ce914a34ba56fd9896123b10",
+    "sample_data_token": "4c850e12ce914a34ba56fd9896123b10",
+    "filename": "panoptic/v1.0-mini/4c850e12ce914a34ba56fd9896123b10_panoptic.npz"
+  },
+  {
+    "token": "ba77cd8dab87477ab3cbcb044c3a2396",
+    "sample_data_token": "ba77cd8dab87477ab3cbcb044c3a2396",
+    "filename": "panoptic/v1.0-mini/ba77cd8dab87477ab3cbcb044c3a2396_panoptic.npz"
+  },
+  {
+    "token": "67768023d82a4533ae51f8d2cbd5ba60",
+    "sample_data_token": "67768023d82a4533ae51f8d2cbd5ba60",
+    "filename": "panoptic/v1.0-mini/67768023d82a4533ae51f8d2cbd5ba60_panoptic.npz"
+  },
+  {
+    "token": "67e7a792d1ad4a3c905dc593163ef339",
+    "sample_data_token": "67e7a792d1ad4a3c905dc593163ef339",
+    "filename": "panoptic/v1.0-mini/67e7a792d1ad4a3c905dc593163ef339_panoptic.npz"
+  },
+  {
+    "token": "7ac90d580eae4d1a8d7e11000648d3a1",
+    "sample_data_token": "7ac90d580eae4d1a8d7e11000648d3a1",
+    "filename": "panoptic/v1.0-mini/7ac90d580eae4d1a8d7e11000648d3a1_panoptic.npz"
+  },
+  {
+    "token": "880f7696d59c45c89d3af55a1ec745b0",
+    "sample_data_token": "880f7696d59c45c89d3af55a1ec745b0",
+    "filename": "panoptic/v1.0-mini/880f7696d59c45c89d3af55a1ec745b0_panoptic.npz"
+  },
+  {
+    "token": "729c663149494df59f3b9bf2e2ebb262",
+    "sample_data_token": "729c663149494df59f3b9bf2e2ebb262",
+    "filename": "panoptic/v1.0-mini/729c663149494df59f3b9bf2e2ebb262_panoptic.npz"
+  },
+  {
+    "token": "86c604d17fbc44c38b43097e91720c0b",
+    "sample_data_token": "86c604d17fbc44c38b43097e91720c0b",
+    "filename": "panoptic/v1.0-mini/86c604d17fbc44c38b43097e91720c0b_panoptic.npz"
+  },
+  {
+    "token": "f8e0d79210e341a0b7604d75bf4ad2a7",
+    "sample_data_token": "f8e0d79210e341a0b7604d75bf4ad2a7",
+    "filename": "panoptic/v1.0-mini/f8e0d79210e341a0b7604d75bf4ad2a7_panoptic.npz"
+  },
+  {
+    "token": "bd10d8d1303e4e15b1aa59d51b32c547",
+    "sample_data_token": "bd10d8d1303e4e15b1aa59d51b32c547",
+    "filename": "panoptic/v1.0-mini/bd10d8d1303e4e15b1aa59d51b32c547_panoptic.npz"
+  },
+  {
+    "token": "111817c846784c0baf4bdf98745e8444",
+    "sample_data_token": "111817c846784c0baf4bdf98745e8444",
+    "filename": "panoptic/v1.0-mini/111817c846784c0baf4bdf98745e8444_panoptic.npz"
+  },
+  {
+    "token": "e5bd7485417a4e99a9827bc7c848278c",
+    "sample_data_token": "e5bd7485417a4e99a9827bc7c848278c",
+    "filename": "panoptic/v1.0-mini/e5bd7485417a4e99a9827bc7c848278c_panoptic.npz"
+  },
+  {
+    "token": "04c98fec98ba4d3c9676d2c31fa4a1ca",
+    "sample_data_token": "04c98fec98ba4d3c9676d2c31fa4a1ca",
+    "filename": "panoptic/v1.0-mini/04c98fec98ba4d3c9676d2c31fa4a1ca_panoptic.npz"
+  },
+  {
+    "token": "faa171b7a8164f4cbf90b260af5c27f1",
+    "sample_data_token": "faa171b7a8164f4cbf90b260af5c27f1",
+    "filename": "panoptic/v1.0-mini/faa171b7a8164f4cbf90b260af5c27f1_panoptic.npz"
+  },
+  {
+    "token": "202d8a4cc24045a08f6ece5876b42d5c",
+    "sample_data_token": "202d8a4cc24045a08f6ece5876b42d5c",
+    "filename": "panoptic/v1.0-mini/202d8a4cc24045a08f6ece5876b42d5c_panoptic.npz"
+  },
+  {
+    "token": "fdddd75ee1d94f14a09991988dab8b3e",
+    "sample_data_token": "fdddd75ee1d94f14a09991988dab8b3e",
+    "filename": "panoptic/v1.0-mini/fdddd75ee1d94f14a09991988dab8b3e_panoptic.npz"
+  },
+  {
+    "token": "53121f39e1a0434d8431777a05de3eec",
+    "sample_data_token": "53121f39e1a0434d8431777a05de3eec",
+    "filename": "panoptic/v1.0-mini/53121f39e1a0434d8431777a05de3eec_panoptic.npz"
+  },
+  {
+    "token": "872aeb79742f4cd5b6e069c36b007ace",
+    "sample_data_token": "872aeb79742f4cd5b6e069c36b007ace",
+    "filename": "panoptic/v1.0-mini/872aeb79742f4cd5b6e069c36b007ace_panoptic.npz"
+  },
+  {
+    "token": "d2e315d29ed4468f802bf6ccfdbe6852",
+    "sample_data_token": "d2e315d29ed4468f802bf6ccfdbe6852",
+    "filename": "panoptic/v1.0-mini/d2e315d29ed4468f802bf6ccfdbe6852_panoptic.npz"
+  },
+  {
+    "token": "79a411ec3dc943bf94886ad9e539481d",
+    "sample_data_token": "79a411ec3dc943bf94886ad9e539481d",
+    "filename": "panoptic/v1.0-mini/79a411ec3dc943bf94886ad9e539481d_panoptic.npz"
+  },
+  {
+    "token": "9181fe90f31b4740b36969e383506d40",
+    "sample_data_token": "9181fe90f31b4740b36969e383506d40",
+    "filename": "panoptic/v1.0-mini/9181fe90f31b4740b36969e383506d40_panoptic.npz"
+  },
+  {
+    "token": "139d5e756c1f461ba1f0c6ec46968e43",
+    "sample_data_token": "139d5e756c1f461ba1f0c6ec46968e43",
+    "filename": "panoptic/v1.0-mini/139d5e756c1f461ba1f0c6ec46968e43_panoptic.npz"
+  },
+  {
+    "token": "21912d2aad7f45c98a54fad3bbea311f",
+    "sample_data_token": "21912d2aad7f45c98a54fad3bbea311f",
+    "filename": "panoptic/v1.0-mini/21912d2aad7f45c98a54fad3bbea311f_panoptic.npz"
+  },
+  {
+    "token": "c4a4d1b455434dba879d5dcd1cc378d6",
+    "sample_data_token": "c4a4d1b455434dba879d5dcd1cc378d6",
+    "filename": "panoptic/v1.0-mini/c4a4d1b455434dba879d5dcd1cc378d6_panoptic.npz"
+  },
+  {
+    "token": "e3bdfba683484a1ea09b7bb86e6be648",
+    "sample_data_token": "e3bdfba683484a1ea09b7bb86e6be648",
+    "filename": "panoptic/v1.0-mini/e3bdfba683484a1ea09b7bb86e6be648_panoptic.npz"
+  },
+  {
+    "token": "e749c211df64486dafc86660a0b20eca",
+    "sample_data_token": "e749c211df64486dafc86660a0b20eca",
+    "filename": "panoptic/v1.0-mini/e749c211df64486dafc86660a0b20eca_panoptic.npz"
+  },
+  {
+    "token": "ab1f5ba71a2f42c89efefcbc6dffcfb7",
+    "sample_data_token": "ab1f5ba71a2f42c89efefcbc6dffcfb7",
+    "filename": "panoptic/v1.0-mini/ab1f5ba71a2f42c89efefcbc6dffcfb7_panoptic.npz"
+  },
+  {
+    "token": "c502570cba9749f7bd89494803a52c02",
+    "sample_data_token": "c502570cba9749f7bd89494803a52c02",
+    "filename": "panoptic/v1.0-mini/c502570cba9749f7bd89494803a52c02_panoptic.npz"
+  },
+  {
+    "token": "274b134fb2324486ae253eb6e24f900d",
+    "sample_data_token": "274b134fb2324486ae253eb6e24f900d",
+    "filename": "panoptic/v1.0-mini/274b134fb2324486ae253eb6e24f900d_panoptic.npz"
+  },
+  {
+    "token": "a977b0e797694036a9c40ab80f9d0ebc",
+    "sample_data_token": "a977b0e797694036a9c40ab80f9d0ebc",
+    "filename": "panoptic/v1.0-mini/a977b0e797694036a9c40ab80f9d0ebc_panoptic.npz"
+  },
+  {
+    "token": "bfbb3ba599ea450181210aa6000bad7f",
+    "sample_data_token": "bfbb3ba599ea450181210aa6000bad7f",
+    "filename": "panoptic/v1.0-mini/bfbb3ba599ea450181210aa6000bad7f_panoptic.npz"
+  },
+  {
+    "token": "3e92d615685942dfab6edb5a0a7678e6",
+    "sample_data_token": "3e92d615685942dfab6edb5a0a7678e6",
+    "filename": "panoptic/v1.0-mini/3e92d615685942dfab6edb5a0a7678e6_panoptic.npz"
+  },
+  {
+    "token": "5b954ca864914a37aaaf0879249ace6a",
+    "sample_data_token": "5b954ca864914a37aaaf0879249ace6a",
+    "filename": "panoptic/v1.0-mini/5b954ca864914a37aaaf0879249ace6a_panoptic.npz"
+  },
+  {
+    "token": "9e10d5419ffa43ce9f70766b4a5a0292",
+    "sample_data_token": "9e10d5419ffa43ce9f70766b4a5a0292",
+    "filename": "panoptic/v1.0-mini/9e10d5419ffa43ce9f70766b4a5a0292_panoptic.npz"
+  },
+  {
+    "token": "12c5d6c3dc424561b9192b76b45af6fd",
+    "sample_data_token": "12c5d6c3dc424561b9192b76b45af6fd",
+    "filename": "panoptic/v1.0-mini/12c5d6c3dc424561b9192b76b45af6fd_panoptic.npz"
+  },
+  {
+    "token": "882819f68f5e4be698694e673c71c6ab",
+    "sample_data_token": "882819f68f5e4be698694e673c71c6ab",
+    "filename": "panoptic/v1.0-mini/882819f68f5e4be698694e673c71c6ab_panoptic.npz"
+  },
+  {
+    "token": "f6bf5986ca8a49c082c0e4d892de767c",
+    "sample_data_token": "f6bf5986ca8a49c082c0e4d892de767c",
+    "filename": "panoptic/v1.0-mini/f6bf5986ca8a49c082c0e4d892de767c_panoptic.npz"
+  },
+  {
+    "token": "69e5c0a974344a2b89e9e351a5b79461",
+    "sample_data_token": "69e5c0a974344a2b89e9e351a5b79461",
+    "filename": "panoptic/v1.0-mini/69e5c0a974344a2b89e9e351a5b79461_panoptic.npz"
+  },
+  {
+    "token": "519f1a02f21d43699ca1ada7ffd38726",
+    "sample_data_token": "519f1a02f21d43699ca1ada7ffd38726",
+    "filename": "panoptic/v1.0-mini/519f1a02f21d43699ca1ada7ffd38726_panoptic.npz"
+  },
+  {
+    "token": "c71884fb34d046258c12cf018513d8cc",
+    "sample_data_token": "c71884fb34d046258c12cf018513d8cc",
+    "filename": "panoptic/v1.0-mini/c71884fb34d046258c12cf018513d8cc_panoptic.npz"
+  },
+  {
+    "token": "ee7d01fd902d4185a54112e1f1210e41",
+    "sample_data_token": "ee7d01fd902d4185a54112e1f1210e41",
+    "filename": "panoptic/v1.0-mini/ee7d01fd902d4185a54112e1f1210e41_panoptic.npz"
+  },
+  {
+    "token": "df7d0426da5346deae21136ea3cba58b",
+    "sample_data_token": "df7d0426da5346deae21136ea3cba58b",
+    "filename": "panoptic/v1.0-mini/df7d0426da5346deae21136ea3cba58b_panoptic.npz"
+  },
+  {
+    "token": "ba7fb622e77447f6aa58ab1fff9ed0cf",
+    "sample_data_token": "ba7fb622e77447f6aa58ab1fff9ed0cf",
+    "filename": "panoptic/v1.0-mini/ba7fb622e77447f6aa58ab1fff9ed0cf_panoptic.npz"
+  },
+  {
+    "token": "5087c0b3f84741178f42d668fbdf506f",
+    "sample_data_token": "5087c0b3f84741178f42d668fbdf506f",
+    "filename": "panoptic/v1.0-mini/5087c0b3f84741178f42d668fbdf506f_panoptic.npz"
+  },
+  {
+    "token": "13055b928600455db08cf9ae57d8d4c7",
+    "sample_data_token": "13055b928600455db08cf9ae57d8d4c7",
+    "filename": "panoptic/v1.0-mini/13055b928600455db08cf9ae57d8d4c7_panoptic.npz"
+  },
+  {
+    "token": "220b431fd37e436f98aa1c868eee5828",
+    "sample_data_token": "220b431fd37e436f98aa1c868eee5828",
+    "filename": "panoptic/v1.0-mini/220b431fd37e436f98aa1c868eee5828_panoptic.npz"
+  },
+  {
+    "token": "4abbc508bffb4f9b957a8ad2457db2e2",
+    "sample_data_token": "4abbc508bffb4f9b957a8ad2457db2e2",
+    "filename": "panoptic/v1.0-mini/4abbc508bffb4f9b957a8ad2457db2e2_panoptic.npz"
+  },
+  {
+    "token": "103914217786464998f1e48a2c20cef0",
+    "sample_data_token": "103914217786464998f1e48a2c20cef0",
+    "filename": "panoptic/v1.0-mini/103914217786464998f1e48a2c20cef0_panoptic.npz"
+  },
+  {
+    "token": "9f35db3dd17c41e4875c2f54bd71fc29",
+    "sample_data_token": "9f35db3dd17c41e4875c2f54bd71fc29",
+    "filename": "panoptic/v1.0-mini/9f35db3dd17c41e4875c2f54bd71fc29_panoptic.npz"
+  },
+  {
+    "token": "8da854b2bced46f7a59f39a4d42bbfd2",
+    "sample_data_token": "8da854b2bced46f7a59f39a4d42bbfd2",
+    "filename": "panoptic/v1.0-mini/8da854b2bced46f7a59f39a4d42bbfd2_panoptic.npz"
+  },
+  {
+    "token": "1e46c82d6a804cf1aaa9d2d6b5b5ef27",
+    "sample_data_token": "1e46c82d6a804cf1aaa9d2d6b5b5ef27",
+    "filename": "panoptic/v1.0-mini/1e46c82d6a804cf1aaa9d2d6b5b5ef27_panoptic.npz"
+  },
+  {
+    "token": "029f10e7436740a0a04feab4ab3aeddc",
+    "sample_data_token": "029f10e7436740a0a04feab4ab3aeddc",
+    "filename": "panoptic/v1.0-mini/029f10e7436740a0a04feab4ab3aeddc_panoptic.npz"
+  },
+  {
+    "token": "d364275322c4483fbf86df22f0e7a315",
+    "sample_data_token": "d364275322c4483fbf86df22f0e7a315",
+    "filename": "panoptic/v1.0-mini/d364275322c4483fbf86df22f0e7a315_panoptic.npz"
+  },
+  {
+    "token": "c98b06812964464093b23c3734532d06",
+    "sample_data_token": "c98b06812964464093b23c3734532d06",
+    "filename": "panoptic/v1.0-mini/c98b06812964464093b23c3734532d06_panoptic.npz"
+  },
+  {
+    "token": "12f431b160be4858a51cced6955c37bd",
+    "sample_data_token": "12f431b160be4858a51cced6955c37bd",
+    "filename": "panoptic/v1.0-mini/12f431b160be4858a51cced6955c37bd_panoptic.npz"
+  },
+  {
+    "token": "4484110755904050a880043268149497",
+    "sample_data_token": "4484110755904050a880043268149497",
+    "filename": "panoptic/v1.0-mini/4484110755904050a880043268149497_panoptic.npz"
+  },
+  {
+    "token": "070595b6dddb475f9056a4507324bc06",
+    "sample_data_token": "070595b6dddb475f9056a4507324bc06",
+    "filename": "panoptic/v1.0-mini/070595b6dddb475f9056a4507324bc06_panoptic.npz"
+  },
+  {
+    "token": "cc56b12eccdc45659cd3aba21a7d18c4",
+    "sample_data_token": "cc56b12eccdc45659cd3aba21a7d18c4",
+    "filename": "panoptic/v1.0-mini/cc56b12eccdc45659cd3aba21a7d18c4_panoptic.npz"
+  },
+  {
+    "token": "80ecda1bdd25416a8240a21da81ff973",
+    "sample_data_token": "80ecda1bdd25416a8240a21da81ff973",
+    "filename": "panoptic/v1.0-mini/80ecda1bdd25416a8240a21da81ff973_panoptic.npz"
+  },
+  {
+    "token": "2b2d98f0daec4fdeb6716d1f6b546a5c",
+    "sample_data_token": "2b2d98f0daec4fdeb6716d1f6b546a5c",
+    "filename": "panoptic/v1.0-mini/2b2d98f0daec4fdeb6716d1f6b546a5c_panoptic.npz"
+  },
+  {
+    "token": "8af5b9edcafe4ed1a1187fd256a74e51",
+    "sample_data_token": "8af5b9edcafe4ed1a1187fd256a74e51",
+    "filename": "panoptic/v1.0-mini/8af5b9edcafe4ed1a1187fd256a74e51_panoptic.npz"
+  },
+  {
+    "token": "5e92d8900bd7411d892d1e3da32b2cb9",
+    "sample_data_token": "5e92d8900bd7411d892d1e3da32b2cb9",
+    "filename": "panoptic/v1.0-mini/5e92d8900bd7411d892d1e3da32b2cb9_panoptic.npz"
+  },
+  {
+    "token": "1d38033115b749bba5d86e3d8c27c1b5",
+    "sample_data_token": "1d38033115b749bba5d86e3d8c27c1b5",
+    "filename": "panoptic/v1.0-mini/1d38033115b749bba5d86e3d8c27c1b5_panoptic.npz"
+  },
+  {
+    "token": "d219ffa9b4ce492c8b8059db9d8b3166",
+    "sample_data_token": "d219ffa9b4ce492c8b8059db9d8b3166",
+    "filename": "panoptic/v1.0-mini/d219ffa9b4ce492c8b8059db9d8b3166_panoptic.npz"
+  },
+  {
+    "token": "11cd6f8358ee486a84e9d2e04dcd0b7f",
+    "sample_data_token": "11cd6f8358ee486a84e9d2e04dcd0b7f",
+    "filename": "panoptic/v1.0-mini/11cd6f8358ee486a84e9d2e04dcd0b7f_panoptic.npz"
+  },
+  {
+    "token": "2347d3d6ce7142b7be73cb29e73d53f5",
+    "sample_data_token": "2347d3d6ce7142b7be73cb29e73d53f5",
+    "filename": "panoptic/v1.0-mini/2347d3d6ce7142b7be73cb29e73d53f5_panoptic.npz"
+  },
+  {
+    "token": "a5dbff60caff41bcb672594c1f108e20",
+    "sample_data_token": "a5dbff60caff41bcb672594c1f108e20",
+    "filename": "panoptic/v1.0-mini/a5dbff60caff41bcb672594c1f108e20_panoptic.npz"
+  },
+  {
+    "token": "c117cad218d543a69d7d9448a02be01a",
+    "sample_data_token": "c117cad218d543a69d7d9448a02be01a",
+    "filename": "panoptic/v1.0-mini/c117cad218d543a69d7d9448a02be01a_panoptic.npz"
+  },
+  {
+    "token": "73336895bfb245019b79846ae3386ad2",
+    "sample_data_token": "73336895bfb245019b79846ae3386ad2",
+    "filename": "panoptic/v1.0-mini/73336895bfb245019b79846ae3386ad2_panoptic.npz"
+  },
+  {
+    "token": "9247dd64ee2941fa93f37ad10d266f9e",
+    "sample_data_token": "9247dd64ee2941fa93f37ad10d266f9e",
+    "filename": "panoptic/v1.0-mini/9247dd64ee2941fa93f37ad10d266f9e_panoptic.npz"
+  },
+  {
+    "token": "8a4a9588107443588886831e9d1ec784",
+    "sample_data_token": "8a4a9588107443588886831e9d1ec784",
+    "filename": "panoptic/v1.0-mini/8a4a9588107443588886831e9d1ec784_panoptic.npz"
+  },
+  {
+    "token": "f5e52420852945128e405133f3fa8770",
+    "sample_data_token": "f5e52420852945128e405133f3fa8770",
+    "filename": "panoptic/v1.0-mini/f5e52420852945128e405133f3fa8770_panoptic.npz"
+  },
+  {
+    "token": "140b061d9f7b46059482723af9e5dc9f",
+    "sample_data_token": "140b061d9f7b46059482723af9e5dc9f",
+    "filename": "panoptic/v1.0-mini/140b061d9f7b46059482723af9e5dc9f_panoptic.npz"
+  },
+  {
+    "token": "5fc4564567b442cfb5de7ff20bff8660",
+    "sample_data_token": "5fc4564567b442cfb5de7ff20bff8660",
+    "filename": "panoptic/v1.0-mini/5fc4564567b442cfb5de7ff20bff8660_panoptic.npz"
+  },
+  {
+    "token": "8663945b2d174e8e9eaaa14fa4bd04fa",
+    "sample_data_token": "8663945b2d174e8e9eaaa14fa4bd04fa",
+    "filename": "panoptic/v1.0-mini/8663945b2d174e8e9eaaa14fa4bd04fa_panoptic.npz"
+  },
+  {
+    "token": "6cb743622ae3427d9db9e47533bccaab",
+    "sample_data_token": "6cb743622ae3427d9db9e47533bccaab",
+    "filename": "panoptic/v1.0-mini/6cb743622ae3427d9db9e47533bccaab_panoptic.npz"
+  },
+  {
+    "token": "693114499b864bb39e32676e0fb5ea61",
+    "sample_data_token": "693114499b864bb39e32676e0fb5ea61",
+    "filename": "panoptic/v1.0-mini/693114499b864bb39e32676e0fb5ea61_panoptic.npz"
+  },
+  {
+    "token": "0129c875ffa741cd9e7501520bc36500",
+    "sample_data_token": "0129c875ffa741cd9e7501520bc36500",
+    "filename": "panoptic/v1.0-mini/0129c875ffa741cd9e7501520bc36500_panoptic.npz"
+  },
+  {
+    "token": "601ef12b6c8c45e3a5316b00e2c99388",
+    "sample_data_token": "601ef12b6c8c45e3a5316b00e2c99388",
+    "filename": "panoptic/v1.0-mini/601ef12b6c8c45e3a5316b00e2c99388_panoptic.npz"
+  },
+  {
+    "token": "f8dc75e6f28b4502985f5ecec72a1249",
+    "sample_data_token": "f8dc75e6f28b4502985f5ecec72a1249",
+    "filename": "panoptic/v1.0-mini/f8dc75e6f28b4502985f5ecec72a1249_panoptic.npz"
+  },
+  {
+    "token": "cd74d5f3dd6b48ce98e42aa2ae3dd1b5",
+    "sample_data_token": "cd74d5f3dd6b48ce98e42aa2ae3dd1b5",
+    "filename": "panoptic/v1.0-mini/cd74d5f3dd6b48ce98e42aa2ae3dd1b5_panoptic.npz"
+  },
+  {
+    "token": "66771f7dcef74a5d88934ae125e6d09a",
+    "sample_data_token": "66771f7dcef74a5d88934ae125e6d09a",
+    "filename": "panoptic/v1.0-mini/66771f7dcef74a5d88934ae125e6d09a_panoptic.npz"
+  },
+  {
+    "token": "782d2d758f6a4976adeae84f98488607",
+    "sample_data_token": "782d2d758f6a4976adeae84f98488607",
+    "filename": "panoptic/v1.0-mini/782d2d758f6a4976adeae84f98488607_panoptic.npz"
+  },
+  {
+    "token": "15a62445ca1f44ae8d58a1f2c1fe947d",
+    "sample_data_token": "15a62445ca1f44ae8d58a1f2c1fe947d",
+    "filename": "panoptic/v1.0-mini/15a62445ca1f44ae8d58a1f2c1fe947d_panoptic.npz"
+  },
+  {
+    "token": "c431cb3bf71447fdb356235e9848cf21",
+    "sample_data_token": "c431cb3bf71447fdb356235e9848cf21",
+    "filename": "panoptic/v1.0-mini/c431cb3bf71447fdb356235e9848cf21_panoptic.npz"
+  },
+  {
+    "token": "ee754c66314e42c58a32fadc071f4990",
+    "sample_data_token": "ee754c66314e42c58a32fadc071f4990",
+    "filename": "panoptic/v1.0-mini/ee754c66314e42c58a32fadc071f4990_panoptic.npz"
+  },
+  {
+    "token": "2fc0208b7e7e4e79b9b937b184043f70",
+    "sample_data_token": "2fc0208b7e7e4e79b9b937b184043f70",
+    "filename": "panoptic/v1.0-mini/2fc0208b7e7e4e79b9b937b184043f70_panoptic.npz"
+  },
+  {
+    "token": "e3130bad1a82432e80ce1c648729d3c6",
+    "sample_data_token": "e3130bad1a82432e80ce1c648729d3c6",
+    "filename": "panoptic/v1.0-mini/e3130bad1a82432e80ce1c648729d3c6_panoptic.npz"
+  },
+  {
+    "token": "dae04937a1504f218dae63c95c23cca6",
+    "sample_data_token": "dae04937a1504f218dae63c95c23cca6",
+    "filename": "panoptic/v1.0-mini/dae04937a1504f218dae63c95c23cca6_panoptic.npz"
+  },
+  {
+    "token": "79ad2a87cc7a45edba6d3c57fd3ddfc3",
+    "sample_data_token": "79ad2a87cc7a45edba6d3c57fd3ddfc3",
+    "filename": "panoptic/v1.0-mini/79ad2a87cc7a45edba6d3c57fd3ddfc3_panoptic.npz"
+  },
+  {
+    "token": "d1145c17372f4bba973f0ef9d0593236",
+    "sample_data_token": "d1145c17372f4bba973f0ef9d0593236",
+    "filename": "panoptic/v1.0-mini/d1145c17372f4bba973f0ef9d0593236_panoptic.npz"
+  },
+  {
+    "token": "8b0d18f684784afd8339386e5ee40e6d",
+    "sample_data_token": "8b0d18f684784afd8339386e5ee40e6d",
+    "filename": "panoptic/v1.0-mini/8b0d18f684784afd8339386e5ee40e6d_panoptic.npz"
+  },
+  {
+    "token": "7399f643114f4eef85c0cdb6a5155d03",
+    "sample_data_token": "7399f643114f4eef85c0cdb6a5155d03",
+    "filename": "panoptic/v1.0-mini/7399f643114f4eef85c0cdb6a5155d03_panoptic.npz"
+  },
+  {
+    "token": "32010f7f9c2848d58f793694a56a0b0f",
+    "sample_data_token": "32010f7f9c2848d58f793694a56a0b0f",
+    "filename": "panoptic/v1.0-mini/32010f7f9c2848d58f793694a56a0b0f_panoptic.npz"
+  },
+  {
+    "token": "8febefbb91354a58b0fdc15d0bf8e82b",
+    "sample_data_token": "8febefbb91354a58b0fdc15d0bf8e82b",
+    "filename": "panoptic/v1.0-mini/8febefbb91354a58b0fdc15d0bf8e82b_panoptic.npz"
+  },
+  {
+    "token": "cf5dd04f13bb4df1a3271613fc66276e",
+    "sample_data_token": "cf5dd04f13bb4df1a3271613fc66276e",
+    "filename": "panoptic/v1.0-mini/cf5dd04f13bb4df1a3271613fc66276e_panoptic.npz"
+  },
+  {
+    "token": "603a96c23db34acf8b5953d958df293d",
+    "sample_data_token": "603a96c23db34acf8b5953d958df293d",
+    "filename": "panoptic/v1.0-mini/603a96c23db34acf8b5953d958df293d_panoptic.npz"
+  },
+  {
+    "token": "00d437419bec4cb48b8feac9a77875c8",
+    "sample_data_token": "00d437419bec4cb48b8feac9a77875c8",
+    "filename": "panoptic/v1.0-mini/00d437419bec4cb48b8feac9a77875c8_panoptic.npz"
+  },
+  {
+    "token": "2dd1198189ec492ab30ccd3ca573ae25",
+    "sample_data_token": "2dd1198189ec492ab30ccd3ca573ae25",
+    "filename": "panoptic/v1.0-mini/2dd1198189ec492ab30ccd3ca573ae25_panoptic.npz"
+  },
+  {
+    "token": "70e2baba09614b4db54b0c5913c41903",
+    "sample_data_token": "70e2baba09614b4db54b0c5913c41903",
+    "filename": "panoptic/v1.0-mini/70e2baba09614b4db54b0c5913c41903_panoptic.npz"
+  },
+  {
+    "token": "086a175205db4f63bafb02e65a5557ff",
+    "sample_data_token": "086a175205db4f63bafb02e65a5557ff",
+    "filename": "panoptic/v1.0-mini/086a175205db4f63bafb02e65a5557ff_panoptic.npz"
+  },
+  {
+    "token": "b5fd361961ea46559a9968dbd9ed0714",
+    "sample_data_token": "b5fd361961ea46559a9968dbd9ed0714",
+    "filename": "panoptic/v1.0-mini/b5fd361961ea46559a9968dbd9ed0714_panoptic.npz"
+  },
+  {
+    "token": "60c3e551ad8e407a91c5c3dd2a2696d9",
+    "sample_data_token": "60c3e551ad8e407a91c5c3dd2a2696d9",
+    "filename": "panoptic/v1.0-mini/60c3e551ad8e407a91c5c3dd2a2696d9_panoptic.npz"
+  },
+  {
+    "token": "d7ae8ef1a5464d1d894b608b9920ced4",
+    "sample_data_token": "d7ae8ef1a5464d1d894b608b9920ced4",
+    "filename": "panoptic/v1.0-mini/d7ae8ef1a5464d1d894b608b9920ced4_panoptic.npz"
+  },
+  {
+    "token": "091440719101480ba950ae17c6b524bd",
+    "sample_data_token": "091440719101480ba950ae17c6b524bd",
+    "filename": "panoptic/v1.0-mini/091440719101480ba950ae17c6b524bd_panoptic.npz"
+  },
+  {
+    "token": "5f468f66edb141fcaaad2f61b5800e84",
+    "sample_data_token": "5f468f66edb141fcaaad2f61b5800e84",
+    "filename": "panoptic/v1.0-mini/5f468f66edb141fcaaad2f61b5800e84_panoptic.npz"
+  },
+  {
+    "token": "0d9eb8fef2454867afd987e39cf1d851",
+    "sample_data_token": "0d9eb8fef2454867afd987e39cf1d851",
+    "filename": "panoptic/v1.0-mini/0d9eb8fef2454867afd987e39cf1d851_panoptic.npz"
+  },
+  {
+    "token": "5f602830b5ed491ebc9838a3f3de809b",
+    "sample_data_token": "5f602830b5ed491ebc9838a3f3de809b",
+    "filename": "panoptic/v1.0-mini/5f602830b5ed491ebc9838a3f3de809b_panoptic.npz"
+  },
+  {
+    "token": "23094c6b99fe44b8a040680afab47fe8",
+    "sample_data_token": "23094c6b99fe44b8a040680afab47fe8",
+    "filename": "panoptic/v1.0-mini/23094c6b99fe44b8a040680afab47fe8_panoptic.npz"
+  },
+  {
+    "token": "444e2e0a5a1c4b57940ea31a96f5859f",
+    "sample_data_token": "444e2e0a5a1c4b57940ea31a96f5859f",
+    "filename": "panoptic/v1.0-mini/444e2e0a5a1c4b57940ea31a96f5859f_panoptic.npz"
+  },
+  {
+    "token": "008228ec292d4853af0bcd290e50482d",
+    "sample_data_token": "008228ec292d4853af0bcd290e50482d",
+    "filename": "panoptic/v1.0-mini/008228ec292d4853af0bcd290e50482d_panoptic.npz"
+  },
+  {
+    "token": "73fe26afdbd8477a92cdb664aa4b9ec7",
+    "sample_data_token": "73fe26afdbd8477a92cdb664aa4b9ec7",
+    "filename": "panoptic/v1.0-mini/73fe26afdbd8477a92cdb664aa4b9ec7_panoptic.npz"
+  },
+  {
+    "token": "1fb3ae4157414fed96871a6786e28398",
+    "sample_data_token": "1fb3ae4157414fed96871a6786e28398",
+    "filename": "panoptic/v1.0-mini/1fb3ae4157414fed96871a6786e28398_panoptic.npz"
+  },
+  {
+    "token": "a320420fe2314a7ba021f15224ab9f68",
+    "sample_data_token": "a320420fe2314a7ba021f15224ab9f68",
+    "filename": "panoptic/v1.0-mini/a320420fe2314a7ba021f15224ab9f68_panoptic.npz"
+  },
+  {
+    "token": "5d5c9959d52f4d94a66eaa11ff6056d6",
+    "sample_data_token": "5d5c9959d52f4d94a66eaa11ff6056d6",
+    "filename": "panoptic/v1.0-mini/5d5c9959d52f4d94a66eaa11ff6056d6_panoptic.npz"
+  },
+  {
+    "token": "ef96f68c037f4bbbbc363b9fb9d24d9e",
+    "sample_data_token": "ef96f68c037f4bbbbc363b9fb9d24d9e",
+    "filename": "panoptic/v1.0-mini/ef96f68c037f4bbbbc363b9fb9d24d9e_panoptic.npz"
+  },
+  {
+    "token": "577348ca0f394f5ebef2d74a9c949206",
+    "sample_data_token": "577348ca0f394f5ebef2d74a9c949206",
+    "filename": "panoptic/v1.0-mini/577348ca0f394f5ebef2d74a9c949206_panoptic.npz"
+  },
+  {
+    "token": "82adbebc95394af3b386658c1210ff10",
+    "sample_data_token": "82adbebc95394af3b386658c1210ff10",
+    "filename": "panoptic/v1.0-mini/82adbebc95394af3b386658c1210ff10_panoptic.npz"
+  },
+  {
+    "token": "3707490aa140438c88b65ca24604a6f8",
+    "sample_data_token": "3707490aa140438c88b65ca24604a6f8",
+    "filename": "panoptic/v1.0-mini/3707490aa140438c88b65ca24604a6f8_panoptic.npz"
+  },
+  {
+    "token": "3dc7f1a46dc94ee69c904cab4c93bfe4",
+    "sample_data_token": "3dc7f1a46dc94ee69c904cab4c93bfe4",
+    "filename": "panoptic/v1.0-mini/3dc7f1a46dc94ee69c904cab4c93bfe4_panoptic.npz"
+  },
+  {
+    "token": "ecb45267b5f74be1a6ec40982f4f26cd",
+    "sample_data_token": "ecb45267b5f74be1a6ec40982f4f26cd",
+    "filename": "panoptic/v1.0-mini/ecb45267b5f74be1a6ec40982f4f26cd_panoptic.npz"
+  },
+  {
+    "token": "782ff7b63e814700b461e2617dc4f093",
+    "sample_data_token": "782ff7b63e814700b461e2617dc4f093",
+    "filename": "panoptic/v1.0-mini/782ff7b63e814700b461e2617dc4f093_panoptic.npz"
+  },
+  {
+    "token": "269cc2d145b14fa48cd26e0f94119413",
+    "sample_data_token": "269cc2d145b14fa48cd26e0f94119413",
+    "filename": "panoptic/v1.0-mini/269cc2d145b14fa48cd26e0f94119413_panoptic.npz"
+  },
+  {
+    "token": "8d9df69dd62a43e685818383fbfed405",
+    "sample_data_token": "8d9df69dd62a43e685818383fbfed405",
+    "filename": "panoptic/v1.0-mini/8d9df69dd62a43e685818383fbfed405_panoptic.npz"
+  },
+  {
+    "token": "81a6248f1fb841c9bb1fda323633936a",
+    "sample_data_token": "81a6248f1fb841c9bb1fda323633936a",
+    "filename": "panoptic/v1.0-mini/81a6248f1fb841c9bb1fda323633936a_panoptic.npz"
+  },
+  {
+    "token": "879184779248483081480c73e56f48b0",
+    "sample_data_token": "879184779248483081480c73e56f48b0",
+    "filename": "panoptic/v1.0-mini/879184779248483081480c73e56f48b0_panoptic.npz"
+  },
+  {
+    "token": "491ffc5ab0864f17ab6ad43f84ec2f0a",
+    "sample_data_token": "491ffc5ab0864f17ab6ad43f84ec2f0a",
+    "filename": "panoptic/v1.0-mini/491ffc5ab0864f17ab6ad43f84ec2f0a_panoptic.npz"
+  },
+  {
+    "token": "b13083db883c479b970d45bb550f4fc6",
+    "sample_data_token": "b13083db883c479b970d45bb550f4fc6",
+    "filename": "panoptic/v1.0-mini/b13083db883c479b970d45bb550f4fc6_panoptic.npz"
+  },
+  {
+    "token": "483d83406d104acfb6dd4597bdb17e22",
+    "sample_data_token": "483d83406d104acfb6dd4597bdb17e22",
+    "filename": "panoptic/v1.0-mini/483d83406d104acfb6dd4597bdb17e22_panoptic.npz"
+  },
+  {
+    "token": "4f08ca45bdfc4f36ad2d0085dd0bb23e",
+    "sample_data_token": "4f08ca45bdfc4f36ad2d0085dd0bb23e",
+    "filename": "panoptic/v1.0-mini/4f08ca45bdfc4f36ad2d0085dd0bb23e_panoptic.npz"
+  },
+  {
+    "token": "c86737adb80248e7937baa70ed0b3d59",
+    "sample_data_token": "c86737adb80248e7937baa70ed0b3d59",
+    "filename": "panoptic/v1.0-mini/c86737adb80248e7937baa70ed0b3d59_panoptic.npz"
+  },
+  {
+    "token": "24b67ba2e3db4590849412a7269c20e2",
+    "sample_data_token": "24b67ba2e3db4590849412a7269c20e2",
+    "filename": "panoptic/v1.0-mini/24b67ba2e3db4590849412a7269c20e2_panoptic.npz"
+  },
+  {
+    "token": "98ac5cb9a8604e548df6d4eceabaae6c",
+    "sample_data_token": "98ac5cb9a8604e548df6d4eceabaae6c",
+    "filename": "panoptic/v1.0-mini/98ac5cb9a8604e548df6d4eceabaae6c_panoptic.npz"
+  },
+  {
+    "token": "3b2631bced8c4c3a96a3abbd3d591cfc",
+    "sample_data_token": "3b2631bced8c4c3a96a3abbd3d591cfc",
+    "filename": "panoptic/v1.0-mini/3b2631bced8c4c3a96a3abbd3d591cfc_panoptic.npz"
+  },
+  {
+    "token": "6d886a7cd2494e5aa9ce92b3f1642b9d",
+    "sample_data_token": "6d886a7cd2494e5aa9ce92b3f1642b9d",
+    "filename": "panoptic/v1.0-mini/6d886a7cd2494e5aa9ce92b3f1642b9d_panoptic.npz"
+  },
+  {
+    "token": "b2899eb96cec4d36adcb7a3170efca17",
+    "sample_data_token": "b2899eb96cec4d36adcb7a3170efca17",
+    "filename": "panoptic/v1.0-mini/b2899eb96cec4d36adcb7a3170efca17_panoptic.npz"
+  },
+  {
+    "token": "3bf5906143324c6aaee0266bc1ee1def",
+    "sample_data_token": "3bf5906143324c6aaee0266bc1ee1def",
+    "filename": "panoptic/v1.0-mini/3bf5906143324c6aaee0266bc1ee1def_panoptic.npz"
+  },
+  {
+    "token": "80bddcd6f16b4bcaa645e3fcbd0de6ef",
+    "sample_data_token": "80bddcd6f16b4bcaa645e3fcbd0de6ef",
+    "filename": "panoptic/v1.0-mini/80bddcd6f16b4bcaa645e3fcbd0de6ef_panoptic.npz"
+  },
+  {
+    "token": "8b4040a9157b4c0085aec350fe1ff25c",
+    "sample_data_token": "8b4040a9157b4c0085aec350fe1ff25c",
+    "filename": "panoptic/v1.0-mini/8b4040a9157b4c0085aec350fe1ff25c_panoptic.npz"
+  },
+  {
+    "token": "d7b6704e3ff14f208ee93becd1cecddf",
+    "sample_data_token": "d7b6704e3ff14f208ee93becd1cecddf",
+    "filename": "panoptic/v1.0-mini/d7b6704e3ff14f208ee93becd1cecddf_panoptic.npz"
+  },
+  {
+    "token": "04c81c4a9efb47618458b1de513f86bc",
+    "sample_data_token": "04c81c4a9efb47618458b1de513f86bc",
+    "filename": "panoptic/v1.0-mini/04c81c4a9efb47618458b1de513f86bc_panoptic.npz"
+  },
+  {
+    "token": "a0acc8ba9b494532abc95a6dc3abc724",
+    "sample_data_token": "a0acc8ba9b494532abc95a6dc3abc724",
+    "filename": "panoptic/v1.0-mini/a0acc8ba9b494532abc95a6dc3abc724_panoptic.npz"
+  },
+  {
+    "token": "806af928f111466db74fffc3aa15a2ab",
+    "sample_data_token": "806af928f111466db74fffc3aa15a2ab",
+    "filename": "panoptic/v1.0-mini/806af928f111466db74fffc3aa15a2ab_panoptic.npz"
+  },
+  {
+    "token": "ca63bdf665f04b4ca918b41f9e51712e",
+    "sample_data_token": "ca63bdf665f04b4ca918b41f9e51712e",
+    "filename": "panoptic/v1.0-mini/ca63bdf665f04b4ca918b41f9e51712e_panoptic.npz"
+  },
+  {
+    "token": "df71ce655f7b4f8d9bb7e04b5a176b45",
+    "sample_data_token": "df71ce655f7b4f8d9bb7e04b5a176b45",
+    "filename": "panoptic/v1.0-mini/df71ce655f7b4f8d9bb7e04b5a176b45_panoptic.npz"
+  },
+  {
+    "token": "496e34e1fbb644f1aa0cf56bbd3ad028",
+    "sample_data_token": "496e34e1fbb644f1aa0cf56bbd3ad028",
+    "filename": "panoptic/v1.0-mini/496e34e1fbb644f1aa0cf56bbd3ad028_panoptic.npz"
+  },
+  {
+    "token": "a3493356710348d2967a6b6db5a70c28",
+    "sample_data_token": "a3493356710348d2967a6b6db5a70c28",
+    "filename": "panoptic/v1.0-mini/a3493356710348d2967a6b6db5a70c28_panoptic.npz"
+  },
+  {
+    "token": "1514393cbd754e03bd18708fc53c338b",
+    "sample_data_token": "1514393cbd754e03bd18708fc53c338b",
+    "filename": "panoptic/v1.0-mini/1514393cbd754e03bd18708fc53c338b_panoptic.npz"
+  },
+  {
+    "token": "fb2afec3d43d48b9abbe5a3aa41fb87b",
+    "sample_data_token": "fb2afec3d43d48b9abbe5a3aa41fb87b",
+    "filename": "panoptic/v1.0-mini/fb2afec3d43d48b9abbe5a3aa41fb87b_panoptic.npz"
+  },
+  {
+    "token": "77a8aed752ce470f968c33588e81d53b",
+    "sample_data_token": "77a8aed752ce470f968c33588e81d53b",
+    "filename": "panoptic/v1.0-mini/77a8aed752ce470f968c33588e81d53b_panoptic.npz"
+  },
+  {
+    "token": "2a70e30c15d44c9fb68ee8867acae66f",
+    "sample_data_token": "2a70e30c15d44c9fb68ee8867acae66f",
+    "filename": "panoptic/v1.0-mini/2a70e30c15d44c9fb68ee8867acae66f_panoptic.npz"
+  },
+  {
+    "token": "24d2e56395bc4570902f680fbd784d6f",
+    "sample_data_token": "24d2e56395bc4570902f680fbd784d6f",
+    "filename": "panoptic/v1.0-mini/24d2e56395bc4570902f680fbd784d6f_panoptic.npz"
+  },
+  {
+    "token": "1eb9031d8d494b09bd48a8c88ea9a50e",
+    "sample_data_token": "1eb9031d8d494b09bd48a8c88ea9a50e",
+    "filename": "panoptic/v1.0-mini/1eb9031d8d494b09bd48a8c88ea9a50e_panoptic.npz"
+  },
+  {
+    "token": "1227dd051a7b4d45a1685bad45d810ff",
+    "sample_data_token": "1227dd051a7b4d45a1685bad45d810ff",
+    "filename": "panoptic/v1.0-mini/1227dd051a7b4d45a1685bad45d810ff_panoptic.npz"
+  },
+  {
+    "token": "b4d658f986c3487baaec8a3aa0d1eca3",
+    "sample_data_token": "b4d658f986c3487baaec8a3aa0d1eca3",
+    "filename": "panoptic/v1.0-mini/b4d658f986c3487baaec8a3aa0d1eca3_panoptic.npz"
+  },
+  {
+    "token": "852560fcab7e4002b06ae89f2365b712",
+    "sample_data_token": "852560fcab7e4002b06ae89f2365b712",
+    "filename": "panoptic/v1.0-mini/852560fcab7e4002b06ae89f2365b712_panoptic.npz"
+  },
+  {
+    "token": "bb3daa74855d463c8fe51203da999873",
+    "sample_data_token": "bb3daa74855d463c8fe51203da999873",
+    "filename": "panoptic/v1.0-mini/bb3daa74855d463c8fe51203da999873_panoptic.npz"
+  },
+  {
+    "token": "e9a13da5f8244b2c9b952ffac5ed1cf9",
+    "sample_data_token": "e9a13da5f8244b2c9b952ffac5ed1cf9",
+    "filename": "panoptic/v1.0-mini/e9a13da5f8244b2c9b952ffac5ed1cf9_panoptic.npz"
+  },
+  {
+    "token": "afc8deb7688c406f80696cee08b83937",
+    "sample_data_token": "afc8deb7688c406f80696cee08b83937",
+    "filename": "panoptic/v1.0-mini/afc8deb7688c406f80696cee08b83937_panoptic.npz"
+  },
+  {
+    "token": "9ec773efd80d4b2c876569d45eb1ab91",
+    "sample_data_token": "9ec773efd80d4b2c876569d45eb1ab91",
+    "filename": "panoptic/v1.0-mini/9ec773efd80d4b2c876569d45eb1ab91_panoptic.npz"
+  },
+  {
+    "token": "5933b3acbae44b6a92b36327b134e56c",
+    "sample_data_token": "5933b3acbae44b6a92b36327b134e56c",
+    "filename": "panoptic/v1.0-mini/5933b3acbae44b6a92b36327b134e56c_panoptic.npz"
+  },
+  {
+    "token": "860b9c08366a4f139d3c5c52a03402ed",
+    "sample_data_token": "860b9c08366a4f139d3c5c52a03402ed",
+    "filename": "panoptic/v1.0-mini/860b9c08366a4f139d3c5c52a03402ed_panoptic.npz"
+  },
+  {
+    "token": "39ce3612455e46619a420fe966ac5c79",
+    "sample_data_token": "39ce3612455e46619a420fe966ac5c79",
+    "filename": "panoptic/v1.0-mini/39ce3612455e46619a420fe966ac5c79_panoptic.npz"
+  },
+  {
+    "token": "7324c55c48674432aa0127f862bc174a",
+    "sample_data_token": "7324c55c48674432aa0127f862bc174a",
+    "filename": "panoptic/v1.0-mini/7324c55c48674432aa0127f862bc174a_panoptic.npz"
+  },
+  {
+    "token": "a4fab4682f06498299859334c2f97afd",
+    "sample_data_token": "a4fab4682f06498299859334c2f97afd",
+    "filename": "panoptic/v1.0-mini/a4fab4682f06498299859334c2f97afd_panoptic.npz"
+  },
+  {
+    "token": "f650eddb684748a892c5d3a39664f0c4",
+    "sample_data_token": "f650eddb684748a892c5d3a39664f0c4",
+    "filename": "panoptic/v1.0-mini/f650eddb684748a892c5d3a39664f0c4_panoptic.npz"
+  },
+  {
+    "token": "77a638bad2e740aaa0c7dfb12de3a509",
+    "sample_data_token": "77a638bad2e740aaa0c7dfb12de3a509",
+    "filename": "panoptic/v1.0-mini/77a638bad2e740aaa0c7dfb12de3a509_panoptic.npz"
+  },
+  {
+    "token": "4c7429f1a7cd480b873a8bd8a341c404",
+    "sample_data_token": "4c7429f1a7cd480b873a8bd8a341c404",
+    "filename": "panoptic/v1.0-mini/4c7429f1a7cd480b873a8bd8a341c404_panoptic.npz"
+  },
+  {
+    "token": "7683e0d810664285b61424bdb526443a",
+    "sample_data_token": "7683e0d810664285b61424bdb526443a",
+    "filename": "panoptic/v1.0-mini/7683e0d810664285b61424bdb526443a_panoptic.npz"
+  },
+  {
+    "token": "44e68bcd6ef14da2a07e82e6b98bbe1f",
+    "sample_data_token": "44e68bcd6ef14da2a07e82e6b98bbe1f",
+    "filename": "panoptic/v1.0-mini/44e68bcd6ef14da2a07e82e6b98bbe1f_panoptic.npz"
+  },
+  {
+    "token": "d35ea9e76f0d4605bd2e3c898d63ca2e",
+    "sample_data_token": "d35ea9e76f0d4605bd2e3c898d63ca2e",
+    "filename": "panoptic/v1.0-mini/d35ea9e76f0d4605bd2e3c898d63ca2e_panoptic.npz"
+  },
+  {
+    "token": "b59ea461938c4bdba28921a8ae3d5878",
+    "sample_data_token": "b59ea461938c4bdba28921a8ae3d5878",
+    "filename": "panoptic/v1.0-mini/b59ea461938c4bdba28921a8ae3d5878_panoptic.npz"
+  },
+  {
+    "token": "990221dad14647259ac888143bb05f3c",
+    "sample_data_token": "990221dad14647259ac888143bb05f3c",
+    "filename": "panoptic/v1.0-mini/990221dad14647259ac888143bb05f3c_panoptic.npz"
+  },
+  {
+    "token": "5124f159a79e4ff5b0e0a46d7ddf4737",
+    "sample_data_token": "5124f159a79e4ff5b0e0a46d7ddf4737",
+    "filename": "panoptic/v1.0-mini/5124f159a79e4ff5b0e0a46d7ddf4737_panoptic.npz"
+  },
+  {
+    "token": "9349841fadd14e98953d33a635571500",
+    "sample_data_token": "9349841fadd14e98953d33a635571500",
+    "filename": "panoptic/v1.0-mini/9349841fadd14e98953d33a635571500_panoptic.npz"
+  },
+  {
+    "token": "b56ff6631cfe4cbeade1d4e09ba145d1",
+    "sample_data_token": "b56ff6631cfe4cbeade1d4e09ba145d1",
+    "filename": "panoptic/v1.0-mini/b56ff6631cfe4cbeade1d4e09ba145d1_panoptic.npz"
+  },
+  {
+    "token": "203f43a3eee74b808bfed5df38847780",
+    "sample_data_token": "203f43a3eee74b808bfed5df38847780",
+    "filename": "panoptic/v1.0-mini/203f43a3eee74b808bfed5df38847780_panoptic.npz"
+  },
+  {
+    "token": "46e855a9aa094a2b9c465ef7524d101a",
+    "sample_data_token": "46e855a9aa094a2b9c465ef7524d101a",
+    "filename": "panoptic/v1.0-mini/46e855a9aa094a2b9c465ef7524d101a_panoptic.npz"
+  },
+  {
+    "token": "17dcee974ba349e884f676670d0c66e7",
+    "sample_data_token": "17dcee974ba349e884f676670d0c66e7",
+    "filename": "panoptic/v1.0-mini/17dcee974ba349e884f676670d0c66e7_panoptic.npz"
+  },
+  {
+    "token": "7f4f4f15b0924b819dfe777bff607413",
+    "sample_data_token": "7f4f4f15b0924b819dfe777bff607413",
+    "filename": "panoptic/v1.0-mini/7f4f4f15b0924b819dfe777bff607413_panoptic.npz"
+  },
+  {
+    "token": "919ee06026cb4ec89f98eba125da0594",
+    "sample_data_token": "919ee06026cb4ec89f98eba125da0594",
+    "filename": "panoptic/v1.0-mini/919ee06026cb4ec89f98eba125da0594_panoptic.npz"
+  },
+  {
+    "token": "7a849fdad06c4623a816fc751ce99030",
+    "sample_data_token": "7a849fdad06c4623a816fc751ce99030",
+    "filename": "panoptic/v1.0-mini/7a849fdad06c4623a816fc751ce99030_panoptic.npz"
+  },
+  {
+    "token": "6dcab8d0e0164bec8adbfe302e109a0a",
+    "sample_data_token": "6dcab8d0e0164bec8adbfe302e109a0a",
+    "filename": "panoptic/v1.0-mini/6dcab8d0e0164bec8adbfe302e109a0a_panoptic.npz"
+  },
+  {
+    "token": "49e2ba0672564d2580d880b52f400bf3",
+    "sample_data_token": "49e2ba0672564d2580d880b52f400bf3",
+    "filename": "panoptic/v1.0-mini/49e2ba0672564d2580d880b52f400bf3_panoptic.npz"
+  },
+  {
+    "token": "8a1f3dbb35f548b0ab04e5dd166f51d0",
+    "sample_data_token": "8a1f3dbb35f548b0ab04e5dd166f51d0",
+    "filename": "panoptic/v1.0-mini/8a1f3dbb35f548b0ab04e5dd166f51d0_panoptic.npz"
+  },
+  {
+    "token": "754d2c3b330740919e344fb015dd9001",
+    "sample_data_token": "754d2c3b330740919e344fb015dd9001",
+    "filename": "panoptic/v1.0-mini/754d2c3b330740919e344fb015dd9001_panoptic.npz"
+  },
+  {
+    "token": "f8b82aa361734f89842e5ef49470c535",
+    "sample_data_token": "f8b82aa361734f89842e5ef49470c535",
+    "filename": "panoptic/v1.0-mini/f8b82aa361734f89842e5ef49470c535_panoptic.npz"
+  },
+  {
+    "token": "e3bcd9fa64e940f085e1f5532c3bc3ce",
+    "sample_data_token": "e3bcd9fa64e940f085e1f5532c3bc3ce",
+    "filename": "panoptic/v1.0-mini/e3bcd9fa64e940f085e1f5532c3bc3ce_panoptic.npz"
+  },
+  {
+    "token": "6c94ce43b54c49ebb7c2c667adea1c94",
+    "sample_data_token": "6c94ce43b54c49ebb7c2c667adea1c94",
+    "filename": "panoptic/v1.0-mini/6c94ce43b54c49ebb7c2c667adea1c94_panoptic.npz"
+  },
+  {
+    "token": "26f69bf5959c4e03bb3cf8dfe0ee79fc",
+    "sample_data_token": "26f69bf5959c4e03bb3cf8dfe0ee79fc",
+    "filename": "panoptic/v1.0-mini/26f69bf5959c4e03bb3cf8dfe0ee79fc_panoptic.npz"
+  },
+  {
+    "token": "2a317368167d4251aa179b49d57718cc",
+    "sample_data_token": "2a317368167d4251aa179b49d57718cc",
+    "filename": "panoptic/v1.0-mini/2a317368167d4251aa179b49d57718cc_panoptic.npz"
+  },
+  {
+    "token": "424a8bbee64046b4899c7b205d6bb12d",
+    "sample_data_token": "424a8bbee64046b4899c7b205d6bb12d",
+    "filename": "panoptic/v1.0-mini/424a8bbee64046b4899c7b205d6bb12d_panoptic.npz"
+  },
+  {
+    "token": "bd76601ac48f44ba926105cd14ef68a9",
+    "sample_data_token": "bd76601ac48f44ba926105cd14ef68a9",
+    "filename": "panoptic/v1.0-mini/bd76601ac48f44ba926105cd14ef68a9_panoptic.npz"
+  },
+  {
+    "token": "66735d60c9ab4763b07570827c8b5ba0",
+    "sample_data_token": "66735d60c9ab4763b07570827c8b5ba0",
+    "filename": "panoptic/v1.0-mini/66735d60c9ab4763b07570827c8b5ba0_panoptic.npz"
+  },
+  {
+    "token": "05632405466449caa51cb5fc7688a3b4",
+    "sample_data_token": "05632405466449caa51cb5fc7688a3b4",
+    "filename": "panoptic/v1.0-mini/05632405466449caa51cb5fc7688a3b4_panoptic.npz"
+  },
+  {
+    "token": "f2f5bd610a204e338bdd1517e8be396c",
+    "sample_data_token": "f2f5bd610a204e338bdd1517e8be396c",
+    "filename": "panoptic/v1.0-mini/f2f5bd610a204e338bdd1517e8be396c_panoptic.npz"
+  },
+  {
+    "token": "a61ad2acf5d641a995e3cb00e3b1e685",
+    "sample_data_token": "a61ad2acf5d641a995e3cb00e3b1e685",
+    "filename": "panoptic/v1.0-mini/a61ad2acf5d641a995e3cb00e3b1e685_panoptic.npz"
+  },
+  {
+    "token": "ad881d8f511d41ffae14c7e93963fc61",
+    "sample_data_token": "ad881d8f511d41ffae14c7e93963fc61",
+    "filename": "panoptic/v1.0-mini/ad881d8f511d41ffae14c7e93963fc61_panoptic.npz"
+  },
+  {
+    "token": "f330779d807d451aafaea198e036cba7",
+    "sample_data_token": "f330779d807d451aafaea198e036cba7",
+    "filename": "panoptic/v1.0-mini/f330779d807d451aafaea198e036cba7_panoptic.npz"
+  },
+  {
+    "token": "5dcd4e529def4dea83dfdbb41f359234",
+    "sample_data_token": "5dcd4e529def4dea83dfdbb41f359234",
+    "filename": "panoptic/v1.0-mini/5dcd4e529def4dea83dfdbb41f359234_panoptic.npz"
+  },
+  {
+    "token": "301d18c2894d42078e3dd3dee71092eb",
+    "sample_data_token": "301d18c2894d42078e3dd3dee71092eb",
+    "filename": "panoptic/v1.0-mini/301d18c2894d42078e3dd3dee71092eb_panoptic.npz"
+  },
+  {
+    "token": "0c54d13080a44cf2893e6a395bcc5f5a",
+    "sample_data_token": "0c54d13080a44cf2893e6a395bcc5f5a",
+    "filename": "panoptic/v1.0-mini/0c54d13080a44cf2893e6a395bcc5f5a_panoptic.npz"
+  },
+  {
+    "token": "2052f63adeeb4cb58e9a2d26a14b16eb",
+    "sample_data_token": "2052f63adeeb4cb58e9a2d26a14b16eb",
+    "filename": "panoptic/v1.0-mini/2052f63adeeb4cb58e9a2d26a14b16eb_panoptic.npz"
+  },
+  {
+    "token": "9924c2fdbbed44d09bac67e5e1144431",
+    "sample_data_token": "9924c2fdbbed44d09bac67e5e1144431",
+    "filename": "panoptic/v1.0-mini/9924c2fdbbed44d09bac67e5e1144431_panoptic.npz"
+  },
+  {
+    "token": "21f576c4c5a24dd38aea878e2c78f9aa",
+    "sample_data_token": "21f576c4c5a24dd38aea878e2c78f9aa",
+    "filename": "panoptic/v1.0-mini/21f576c4c5a24dd38aea878e2c78f9aa_panoptic.npz"
+  },
+  {
+    "token": "d58214c9fe024a10806ea13c2d5c9747",
+    "sample_data_token": "d58214c9fe024a10806ea13c2d5c9747",
+    "filename": "panoptic/v1.0-mini/d58214c9fe024a10806ea13c2d5c9747_panoptic.npz"
+  },
+  {
+    "token": "d480d2744ce34815b52dd05eeb5732df",
+    "sample_data_token": "d480d2744ce34815b52dd05eeb5732df",
+    "filename": "panoptic/v1.0-mini/d480d2744ce34815b52dd05eeb5732df_panoptic.npz"
+  },
+  {
+    "token": "6940339abda24bada9c47a85a291af32",
+    "sample_data_token": "6940339abda24bada9c47a85a291af32",
+    "filename": "panoptic/v1.0-mini/6940339abda24bada9c47a85a291af32_panoptic.npz"
+  },
+  {
+    "token": "49ba1c7ea209428aa648affaa00e3347",
+    "sample_data_token": "49ba1c7ea209428aa648affaa00e3347",
+    "filename": "panoptic/v1.0-mini/49ba1c7ea209428aa648affaa00e3347_panoptic.npz"
+  },
+  {
+    "token": "63175a77138f46f891924cd0746a189d",
+    "sample_data_token": "63175a77138f46f891924cd0746a189d",
+    "filename": "panoptic/v1.0-mini/63175a77138f46f891924cd0746a189d_panoptic.npz"
+  },
+  {
+    "token": "babb4ff9ad2b45f69d49acea58ce4b86",
+    "sample_data_token": "babb4ff9ad2b45f69d49acea58ce4b86",
+    "filename": "panoptic/v1.0-mini/babb4ff9ad2b45f69d49acea58ce4b86_panoptic.npz"
+  },
+  {
+    "token": "70cbbf88b7e2495f9a45f392e0fbe605",
+    "sample_data_token": "70cbbf88b7e2495f9a45f392e0fbe605",
+    "filename": "panoptic/v1.0-mini/70cbbf88b7e2495f9a45f392e0fbe605_panoptic.npz"
+  },
+  {
+    "token": "5d5fa8f7e1fa4bb89efe64daf8b2434a",
+    "sample_data_token": "5d5fa8f7e1fa4bb89efe64daf8b2434a",
+    "filename": "panoptic/v1.0-mini/5d5fa8f7e1fa4bb89efe64daf8b2434a_panoptic.npz"
+  },
+  {
+    "token": "7cf393d35396408097fc318d66facc06",
+    "sample_data_token": "7cf393d35396408097fc318d66facc06",
+    "filename": "panoptic/v1.0-mini/7cf393d35396408097fc318d66facc06_panoptic.npz"
+  },
+  {
+    "token": "cc6ad410cc8f4e1797ddf5d8b8cc84a3",
+    "sample_data_token": "cc6ad410cc8f4e1797ddf5d8b8cc84a3",
+    "filename": "panoptic/v1.0-mini/cc6ad410cc8f4e1797ddf5d8b8cc84a3_panoptic.npz"
+  },
+  {
+    "token": "11882438a76e417d833618f0aefd797a",
+    "sample_data_token": "11882438a76e417d833618f0aefd797a",
+    "filename": "panoptic/v1.0-mini/11882438a76e417d833618f0aefd797a_panoptic.npz"
+  },
+  {
+    "token": "80bbed0cdcef4a329de253d5fb6b6d2d",
+    "sample_data_token": "80bbed0cdcef4a329de253d5fb6b6d2d",
+    "filename": "panoptic/v1.0-mini/80bbed0cdcef4a329de253d5fb6b6d2d_panoptic.npz"
+  },
+  {
+    "token": "be93b3f1e1fb4e6297823e3ca0cc3585",
+    "sample_data_token": "be93b3f1e1fb4e6297823e3ca0cc3585",
+    "filename": "panoptic/v1.0-mini/be93b3f1e1fb4e6297823e3ca0cc3585_panoptic.npz"
+  },
+  {
+    "token": "65e07a70e6b5404a87bf34e49d4c0924",
+    "sample_data_token": "65e07a70e6b5404a87bf34e49d4c0924",
+    "filename": "panoptic/v1.0-mini/65e07a70e6b5404a87bf34e49d4c0924_panoptic.npz"
+  },
+  {
+    "token": "9ab5069c183c492b82b0ab30133080c1",
+    "sample_data_token": "9ab5069c183c492b82b0ab30133080c1",
+    "filename": "panoptic/v1.0-mini/9ab5069c183c492b82b0ab30133080c1_panoptic.npz"
+  },
+  {
+    "token": "4258ba3b8b8142f48c3249d310a8c3d2",
+    "sample_data_token": "4258ba3b8b8142f48c3249d310a8c3d2",
+    "filename": "panoptic/v1.0-mini/4258ba3b8b8142f48c3249d310a8c3d2_panoptic.npz"
+  },
+  {
+    "token": "8970a737ebee4443af37102473aaef8b",
+    "sample_data_token": "8970a737ebee4443af37102473aaef8b",
+    "filename": "panoptic/v1.0-mini/8970a737ebee4443af37102473aaef8b_panoptic.npz"
+  },
+  {
+    "token": "83f3eb36fc7144ab902e192db3a98c06",
+    "sample_data_token": "83f3eb36fc7144ab902e192db3a98c06",
+    "filename": "panoptic/v1.0-mini/83f3eb36fc7144ab902e192db3a98c06_panoptic.npz"
+  },
+  {
+    "token": "0fc0a764b3ec4c8196ffa35598fbda5f",
+    "sample_data_token": "0fc0a764b3ec4c8196ffa35598fbda5f",
+    "filename": "panoptic/v1.0-mini/0fc0a764b3ec4c8196ffa35598fbda5f_panoptic.npz"
+  },
+  {
+    "token": "ef823f39fe034fdc9651a363fc81327b",
+    "sample_data_token": "ef823f39fe034fdc9651a363fc81327b",
+    "filename": "panoptic/v1.0-mini/ef823f39fe034fdc9651a363fc81327b_panoptic.npz"
+  },
+  {
+    "token": "f8de967b00394c9e88558219feef8426",
+    "sample_data_token": "f8de967b00394c9e88558219feef8426",
+    "filename": "panoptic/v1.0-mini/f8de967b00394c9e88558219feef8426_panoptic.npz"
+  },
+  {
+    "token": "cb440b4d1912467fb51d871f0ccf8e8a",
+    "sample_data_token": "cb440b4d1912467fb51d871f0ccf8e8a",
+    "filename": "panoptic/v1.0-mini/cb440b4d1912467fb51d871f0ccf8e8a_panoptic.npz"
+  },
+  {
+    "token": "13546ea263ff48f49899cb30ac0004e9",
+    "sample_data_token": "13546ea263ff48f49899cb30ac0004e9",
+    "filename": "panoptic/v1.0-mini/13546ea263ff48f49899cb30ac0004e9_panoptic.npz"
+  },
+  {
+    "token": "9b77dad2bdcf4814b042fa47889f19f6",
+    "sample_data_token": "9b77dad2bdcf4814b042fa47889f19f6",
+    "filename": "panoptic/v1.0-mini/9b77dad2bdcf4814b042fa47889f19f6_panoptic.npz"
+  },
+  {
+    "token": "2b77a910c5e749f9a620d893361c1976",
+    "sample_data_token": "2b77a910c5e749f9a620d893361c1976",
+    "filename": "panoptic/v1.0-mini/2b77a910c5e749f9a620d893361c1976_panoptic.npz"
+  },
+  {
+    "token": "097394612e494d1ebe1750ed54a27763",
+    "sample_data_token": "097394612e494d1ebe1750ed54a27763",
+    "filename": "panoptic/v1.0-mini/097394612e494d1ebe1750ed54a27763_panoptic.npz"
+  },
+  {
+    "token": "20601ccb0ab0445db56bad84060c1323",
+    "sample_data_token": "20601ccb0ab0445db56bad84060c1323",
+    "filename": "panoptic/v1.0-mini/20601ccb0ab0445db56bad84060c1323_panoptic.npz"
+  },
+  {
+    "token": "746857c6bd46430fa4b5b82186e716e0",
+    "sample_data_token": "746857c6bd46430fa4b5b82186e716e0",
+    "filename": "panoptic/v1.0-mini/746857c6bd46430fa4b5b82186e716e0_panoptic.npz"
+  },
+  {
+    "token": "ef4fbe4064a74ce6b0a52cb3dd2e0bf0",
+    "sample_data_token": "ef4fbe4064a74ce6b0a52cb3dd2e0bf0",
+    "filename": "panoptic/v1.0-mini/ef4fbe4064a74ce6b0a52cb3dd2e0bf0_panoptic.npz"
+  },
+  {
+    "token": "63d7813869b34ee9aa65064e93775e58",
+    "sample_data_token": "63d7813869b34ee9aa65064e93775e58",
+    "filename": "panoptic/v1.0-mini/63d7813869b34ee9aa65064e93775e58_panoptic.npz"
+  },
+  {
+    "token": "3d5a6fe339f3490297e4b9d1f3949618",
+    "sample_data_token": "3d5a6fe339f3490297e4b9d1f3949618",
+    "filename": "panoptic/v1.0-mini/3d5a6fe339f3490297e4b9d1f3949618_panoptic.npz"
+  },
+  {
+    "token": "306e66375cf94c7881864ba03782d2d2",
+    "sample_data_token": "306e66375cf94c7881864ba03782d2d2",
+    "filename": "panoptic/v1.0-mini/306e66375cf94c7881864ba03782d2d2_panoptic.npz"
+  },
+  {
+    "token": "49cd09e4a07145258972fc4e6b18e42d",
+    "sample_data_token": "49cd09e4a07145258972fc4e6b18e42d",
+    "filename": "panoptic/v1.0-mini/49cd09e4a07145258972fc4e6b18e42d_panoptic.npz"
+  },
+  {
+    "token": "60448167db014ef49dcfb65d89d69b3f",
+    "sample_data_token": "60448167db014ef49dcfb65d89d69b3f",
+    "filename": "panoptic/v1.0-mini/60448167db014ef49dcfb65d89d69b3f_panoptic.npz"
+  },
+  {
+    "token": "f0bb168a6bc34e0bba79dd122b6394b0",
+    "sample_data_token": "f0bb168a6bc34e0bba79dd122b6394b0",
+    "filename": "panoptic/v1.0-mini/f0bb168a6bc34e0bba79dd122b6394b0_panoptic.npz"
+  },
+  {
+    "token": "a82ac06abf0d4d5ea70af9e19e82305e",
+    "sample_data_token": "a82ac06abf0d4d5ea70af9e19e82305e",
+    "filename": "panoptic/v1.0-mini/a82ac06abf0d4d5ea70af9e19e82305e_panoptic.npz"
+  },
+  {
+    "token": "2a572213c61c4d40a1955c2aecee6104",
+    "sample_data_token": "2a572213c61c4d40a1955c2aecee6104",
+    "filename": "panoptic/v1.0-mini/2a572213c61c4d40a1955c2aecee6104_panoptic.npz"
+  },
+  {
+    "token": "4734352144ac49a7b02960b99573fc14",
+    "sample_data_token": "4734352144ac49a7b02960b99573fc14",
+    "filename": "panoptic/v1.0-mini/4734352144ac49a7b02960b99573fc14_panoptic.npz"
+  },
+  {
+    "token": "0ab9ec2730894df2b48df70d0d2e84a9",
+    "sample_data_token": "0ab9ec2730894df2b48df70d0d2e84a9",
+    "filename": "panoptic/v1.0-mini/0ab9ec2730894df2b48df70d0d2e84a9_panoptic.npz"
+  },
+  {
+    "token": "cb708f56b6104d638f93e3906cba5b82",
+    "sample_data_token": "cb708f56b6104d638f93e3906cba5b82",
+    "filename": "panoptic/v1.0-mini/cb708f56b6104d638f93e3906cba5b82_panoptic.npz"
+  },
+  {
+    "token": "fd6002d736cb405796fc4fbdd5af6f7f",
+    "sample_data_token": "fd6002d736cb405796fc4fbdd5af6f7f",
+    "filename": "panoptic/v1.0-mini/fd6002d736cb405796fc4fbdd5af6f7f_panoptic.npz"
+  },
+  {
+    "token": "7f769bb638214009813b92df0cfb501a",
+    "sample_data_token": "7f769bb638214009813b92df0cfb501a",
+    "filename": "panoptic/v1.0-mini/7f769bb638214009813b92df0cfb501a_panoptic.npz"
+  },
+  {
+    "token": "f76469bb5b5747dbaedb1c59990b5579",
+    "sample_data_token": "f76469bb5b5747dbaedb1c59990b5579",
+    "filename": "panoptic/v1.0-mini/f76469bb5b5747dbaedb1c59990b5579_panoptic.npz"
+  },
+  {
+    "token": "770820077d44452a8428299e33808c0f",
+    "sample_data_token": "770820077d44452a8428299e33808c0f",
+    "filename": "panoptic/v1.0-mini/770820077d44452a8428299e33808c0f_panoptic.npz"
+  },
+  {
+    "token": "8a7007fd59cf4f39a3855b0e82136105",
+    "sample_data_token": "8a7007fd59cf4f39a3855b0e82136105",
+    "filename": "panoptic/v1.0-mini/8a7007fd59cf4f39a3855b0e82136105_panoptic.npz"
+  },
+  {
+    "token": "15f4465f9fe44b80ab54908983b1cf68",
+    "sample_data_token": "15f4465f9fe44b80ab54908983b1cf68",
+    "filename": "panoptic/v1.0-mini/15f4465f9fe44b80ab54908983b1cf68_panoptic.npz"
+  },
+  {
+    "token": "f94199c2a589484d8e32dd6bf4931d4f",
+    "sample_data_token": "f94199c2a589484d8e32dd6bf4931d4f",
+    "filename": "panoptic/v1.0-mini/f94199c2a589484d8e32dd6bf4931d4f_panoptic.npz"
+  },
+  {
+    "token": "a07f902656eb4f0fb2e5a77f803fb37c",
+    "sample_data_token": "a07f902656eb4f0fb2e5a77f803fb37c",
+    "filename": "panoptic/v1.0-mini/a07f902656eb4f0fb2e5a77f803fb37c_panoptic.npz"
+  },
+  {
+    "token": "bec365d878c4413d85d5fbb3eb3b3f46",
+    "sample_data_token": "bec365d878c4413d85d5fbb3eb3b3f46",
+    "filename": "panoptic/v1.0-mini/bec365d878c4413d85d5fbb3eb3b3f46_panoptic.npz"
+  },
+  {
+    "token": "7ac804cee1cd4d48ac2ea0ac97726bc9",
+    "sample_data_token": "7ac804cee1cd4d48ac2ea0ac97726bc9",
+    "filename": "panoptic/v1.0-mini/7ac804cee1cd4d48ac2ea0ac97726bc9_panoptic.npz"
+  },
+  {
+    "token": "54259afa6c644e1d99422df9da1c8f35",
+    "sample_data_token": "54259afa6c644e1d99422df9da1c8f35",
+    "filename": "panoptic/v1.0-mini/54259afa6c644e1d99422df9da1c8f35_panoptic.npz"
+  },
+  {
+    "token": "fa8abe51b4104eb68fc7f85ab1c475bb",
+    "sample_data_token": "fa8abe51b4104eb68fc7f85ab1c475bb",
+    "filename": "panoptic/v1.0-mini/fa8abe51b4104eb68fc7f85ab1c475bb_panoptic.npz"
+  },
+  {
+    "token": "bc84a61f13f744cd8f5aa8e888ce879b",
+    "sample_data_token": "bc84a61f13f744cd8f5aa8e888ce879b",
+    "filename": "panoptic/v1.0-mini/bc84a61f13f744cd8f5aa8e888ce879b_panoptic.npz"
+  },
+  {
+    "token": "76c090ac27774e66a592f40998d5537c",
+    "sample_data_token": "76c090ac27774e66a592f40998d5537c",
+    "filename": "panoptic/v1.0-mini/76c090ac27774e66a592f40998d5537c_panoptic.npz"
+  },
+  {
+    "token": "5e8bbadecb8640c69a12857c6992f44c",
+    "sample_data_token": "5e8bbadecb8640c69a12857c6992f44c",
+    "filename": "panoptic/v1.0-mini/5e8bbadecb8640c69a12857c6992f44c_panoptic.npz"
+  },
+  {
+    "token": "77a132cf54f84881bdc8800e82068d4a",
+    "sample_data_token": "77a132cf54f84881bdc8800e82068d4a",
+    "filename": "panoptic/v1.0-mini/77a132cf54f84881bdc8800e82068d4a_panoptic.npz"
+  },
+  {
+    "token": "6e9f7877390a4533a6bbf711516173a1",
+    "sample_data_token": "6e9f7877390a4533a6bbf711516173a1",
+    "filename": "panoptic/v1.0-mini/6e9f7877390a4533a6bbf711516173a1_panoptic.npz"
+  },
+  {
+    "token": "560181e1085341a3a6edfd87710dc312",
+    "sample_data_token": "560181e1085341a3a6edfd87710dc312",
+    "filename": "panoptic/v1.0-mini/560181e1085341a3a6edfd87710dc312_panoptic.npz"
+  },
+  {
+    "token": "8aa1a7754d6847d691685d29ee05ca33",
+    "sample_data_token": "8aa1a7754d6847d691685d29ee05ca33",
+    "filename": "panoptic/v1.0-mini/8aa1a7754d6847d691685d29ee05ca33_panoptic.npz"
+  },
+  {
+    "token": "3fae29536ac04b02a45fe07a4a994bdf",
+    "sample_data_token": "3fae29536ac04b02a45fe07a4a994bdf",
+    "filename": "panoptic/v1.0-mini/3fae29536ac04b02a45fe07a4a994bdf_panoptic.npz"
+  },
+  {
+    "token": "41e8be1595df455aa74ae631ec869fc9",
+    "sample_data_token": "41e8be1595df455aa74ae631ec869fc9",
+    "filename": "panoptic/v1.0-mini/41e8be1595df455aa74ae631ec869fc9_panoptic.npz"
+  },
+  {
+    "token": "e6eca216565a4620916ef5103cefe401",
+    "sample_data_token": "e6eca216565a4620916ef5103cefe401",
+    "filename": "panoptic/v1.0-mini/e6eca216565a4620916ef5103cefe401_panoptic.npz"
+  },
+  {
+    "token": "3d7b552d1e3741509d844bf4b6791962",
+    "sample_data_token": "3d7b552d1e3741509d844bf4b6791962",
+    "filename": "panoptic/v1.0-mini/3d7b552d1e3741509d844bf4b6791962_panoptic.npz"
+  },
+  {
+    "token": "6e5a2f9bc359433a9bc821d8558c85d3",
+    "sample_data_token": "6e5a2f9bc359433a9bc821d8558c85d3",
+    "filename": "panoptic/v1.0-mini/6e5a2f9bc359433a9bc821d8558c85d3_panoptic.npz"
+  },
+  {
+    "token": "0af1568c817a44048cfc67879f893f35",
+    "sample_data_token": "0af1568c817a44048cfc67879f893f35",
+    "filename": "panoptic/v1.0-mini/0af1568c817a44048cfc67879f893f35_panoptic.npz"
+  },
+  {
+    "token": "86e42829043946a4bdbafa460919177b",
+    "sample_data_token": "86e42829043946a4bdbafa460919177b",
+    "filename": "panoptic/v1.0-mini/86e42829043946a4bdbafa460919177b_panoptic.npz"
+  },
+  {
+    "token": "80394e6e6f4d448184d03965a87fa413",
+    "sample_data_token": "80394e6e6f4d448184d03965a87fa413",
+    "filename": "panoptic/v1.0-mini/80394e6e6f4d448184d03965a87fa413_panoptic.npz"
+  },
+  {
+    "token": "c7f57453fbdc4fd08bb36f65f17f469a",
+    "sample_data_token": "c7f57453fbdc4fd08bb36f65f17f469a",
+    "filename": "panoptic/v1.0-mini/c7f57453fbdc4fd08bb36f65f17f469a_panoptic.npz"
+  },
+  {
+    "token": "c781207aebcb4b95ba9cc12ba30c44cb",
+    "sample_data_token": "c781207aebcb4b95ba9cc12ba30c44cb",
+    "filename": "panoptic/v1.0-mini/c781207aebcb4b95ba9cc12ba30c44cb_panoptic.npz"
+  },
+  {
+    "token": "6a2893ec6f1e4fc5a79f1709e88b0cd4",
+    "sample_data_token": "6a2893ec6f1e4fc5a79f1709e88b0cd4",
+    "filename": "panoptic/v1.0-mini/6a2893ec6f1e4fc5a79f1709e88b0cd4_panoptic.npz"
+  },
+  {
+    "token": "5b219d0ca20446c68746b4ae3ce98eba",
+    "sample_data_token": "5b219d0ca20446c68746b4ae3ce98eba",
+    "filename": "panoptic/v1.0-mini/5b219d0ca20446c68746b4ae3ce98eba_panoptic.npz"
+  },
+  {
+    "token": "3496cb2b32094b76bffff3c253463b3b",
+    "sample_data_token": "3496cb2b32094b76bffff3c253463b3b",
+    "filename": "panoptic/v1.0-mini/3496cb2b32094b76bffff3c253463b3b_panoptic.npz"
+  },
+  {
+    "token": "db9c2232838d48c5968c5ace0b129f53",
+    "sample_data_token": "db9c2232838d48c5968c5ace0b129f53",
+    "filename": "panoptic/v1.0-mini/db9c2232838d48c5968c5ace0b129f53_panoptic.npz"
+  },
+  {
+    "token": "ba504fabcb6d4eaa9cf4b33a49f99f9f",
+    "sample_data_token": "ba504fabcb6d4eaa9cf4b33a49f99f9f",
+    "filename": "panoptic/v1.0-mini/ba504fabcb6d4eaa9cf4b33a49f99f9f_panoptic.npz"
+  },
+  {
+    "token": "a6b5ca4ced94480e91e4ff7fe141bcc6",
+    "sample_data_token": "a6b5ca4ced94480e91e4ff7fe141bcc6",
+    "filename": "panoptic/v1.0-mini/a6b5ca4ced94480e91e4ff7fe141bcc6_panoptic.npz"
+  },
+  {
+    "token": "95621ad99e9c4d6eba093c260c5fb92f",
+    "sample_data_token": "95621ad99e9c4d6eba093c260c5fb92f",
+    "filename": "panoptic/v1.0-mini/95621ad99e9c4d6eba093c260c5fb92f_panoptic.npz"
+  },
+  {
+    "token": "a04994887b474a3f9e5b2d28e65f7e78",
+    "sample_data_token": "a04994887b474a3f9e5b2d28e65f7e78",
+    "filename": "panoptic/v1.0-mini/a04994887b474a3f9e5b2d28e65f7e78_panoptic.npz"
+  },
+  {
+    "token": "07e8a798a39b49d6bd35d53156e64232",
+    "sample_data_token": "07e8a798a39b49d6bd35d53156e64232",
+    "filename": "panoptic/v1.0-mini/07e8a798a39b49d6bd35d53156e64232_panoptic.npz"
+  },
+  {
+    "token": "f64be8fc951b4a77a4e1895188df261e",
+    "sample_data_token": "f64be8fc951b4a77a4e1895188df261e",
+    "filename": "panoptic/v1.0-mini/f64be8fc951b4a77a4e1895188df261e_panoptic.npz"
+  },
+  {
+    "token": "9d65676f67ae42e688e0b0db45b927bf",
+    "sample_data_token": "9d65676f67ae42e688e0b0db45b927bf",
+    "filename": "panoptic/v1.0-mini/9d65676f67ae42e688e0b0db45b927bf_panoptic.npz"
+  },
+  {
+    "token": "9f4ac54175b143f7aa42c23b86bba95b",
+    "sample_data_token": "9f4ac54175b143f7aa42c23b86bba95b",
+    "filename": "panoptic/v1.0-mini/9f4ac54175b143f7aa42c23b86bba95b_panoptic.npz"
+  },
+  {
+    "token": "d9ee706fc0e1481a82e1d1d2788b38f1",
+    "sample_data_token": "d9ee706fc0e1481a82e1d1d2788b38f1",
+    "filename": "panoptic/v1.0-mini/d9ee706fc0e1481a82e1d1d2788b38f1_panoptic.npz"
+  },
+  {
+    "token": "73049bc284734389a16cd36f58cff3d7",
+    "sample_data_token": "73049bc284734389a16cd36f58cff3d7",
+    "filename": "panoptic/v1.0-mini/73049bc284734389a16cd36f58cff3d7_panoptic.npz"
+  },
+  {
+    "token": "eb8c268a648e47a1986867e1262f868f",
+    "sample_data_token": "eb8c268a648e47a1986867e1262f868f",
+    "filename": "panoptic/v1.0-mini/eb8c268a648e47a1986867e1262f868f_panoptic.npz"
+  },
+  {
+    "token": "bcd2da1ef3ed45b185fd2fbb492d5122",
+    "sample_data_token": "bcd2da1ef3ed45b185fd2fbb492d5122",
+    "filename": "panoptic/v1.0-mini/bcd2da1ef3ed45b185fd2fbb492d5122_panoptic.npz"
+  },
+  {
+    "token": "4bbfaebece7b4af9914dca6630b0610e",
+    "sample_data_token": "4bbfaebece7b4af9914dca6630b0610e",
+    "filename": "panoptic/v1.0-mini/4bbfaebece7b4af9914dca6630b0610e_panoptic.npz"
+  },
+  {
+    "token": "06c93d995da14560be10806aa0506984",
+    "sample_data_token": "06c93d995da14560be10806aa0506984",
+    "filename": "panoptic/v1.0-mini/06c93d995da14560be10806aa0506984_panoptic.npz"
+  },
+  {
+    "token": "22ede9793684495b91c953ffe2707ddc",
+    "sample_data_token": "22ede9793684495b91c953ffe2707ddc",
+    "filename": "panoptic/v1.0-mini/22ede9793684495b91c953ffe2707ddc_panoptic.npz"
+  },
+  {
+    "token": "ce808765ee7e47a09ea677ccbc58aefd",
+    "sample_data_token": "ce808765ee7e47a09ea677ccbc58aefd",
+    "filename": "panoptic/v1.0-mini/ce808765ee7e47a09ea677ccbc58aefd_panoptic.npz"
+  },
+  {
+    "token": "9b69e262837d4fb59eb3f00a930e1e5a",
+    "sample_data_token": "9b69e262837d4fb59eb3f00a930e1e5a",
+    "filename": "panoptic/v1.0-mini/9b69e262837d4fb59eb3f00a930e1e5a_panoptic.npz"
+  },
+  {
+    "token": "05afff45782640739984210fc595c3a6",
+    "sample_data_token": "05afff45782640739984210fc595c3a6",
+    "filename": "panoptic/v1.0-mini/05afff45782640739984210fc595c3a6_panoptic.npz"
+  },
+  {
+    "token": "bc4258e225e442f295822c63dc34db87",
+    "sample_data_token": "bc4258e225e442f295822c63dc34db87",
+    "filename": "panoptic/v1.0-mini/bc4258e225e442f295822c63dc34db87_panoptic.npz"
+  },
+  {
+    "token": "58a21b7592f5489b9d15686d6c117375",
+    "sample_data_token": "58a21b7592f5489b9d15686d6c117375",
+    "filename": "panoptic/v1.0-mini/58a21b7592f5489b9d15686d6c117375_panoptic.npz"
+  },
+  {
+    "token": "5d229fdca3c74e3796f9c12ab3ef13ab",
+    "sample_data_token": "5d229fdca3c74e3796f9c12ab3ef13ab",
+    "filename": "panoptic/v1.0-mini/5d229fdca3c74e3796f9c12ab3ef13ab_panoptic.npz"
+  },
+  {
+    "token": "07ad082b378a45a4bca7ac47fc6871bd",
+    "sample_data_token": "07ad082b378a45a4bca7ac47fc6871bd",
+    "filename": "panoptic/v1.0-mini/07ad082b378a45a4bca7ac47fc6871bd_panoptic.npz"
+  },
+  {
+    "token": "da48bb33b1c847798767a03ed0dcee39",
+    "sample_data_token": "da48bb33b1c847798767a03ed0dcee39",
+    "filename": "panoptic/v1.0-mini/da48bb33b1c847798767a03ed0dcee39_panoptic.npz"
+  },
+  {
+    "token": "15ef121927134d56b3431d762a288224",
+    "sample_data_token": "15ef121927134d56b3431d762a288224",
+    "filename": "panoptic/v1.0-mini/15ef121927134d56b3431d762a288224_panoptic.npz"
+  },
+  {
+    "token": "58dfdc7b80f648ddb7812d3198229877",
+    "sample_data_token": "58dfdc7b80f648ddb7812d3198229877",
+    "filename": "panoptic/v1.0-mini/58dfdc7b80f648ddb7812d3198229877_panoptic.npz"
+  },
+  {
+    "token": "746ac5a5b8594420b1870ac30a191a0d",
+    "sample_data_token": "746ac5a5b8594420b1870ac30a191a0d",
+    "filename": "panoptic/v1.0-mini/746ac5a5b8594420b1870ac30a191a0d_panoptic.npz"
+  },
+  {
+    "token": "87f8c309f9404ea5816a7a44c4ba14e6",
+    "sample_data_token": "87f8c309f9404ea5816a7a44c4ba14e6",
+    "filename": "panoptic/v1.0-mini/87f8c309f9404ea5816a7a44c4ba14e6_panoptic.npz"
+  },
+  {
+    "token": "531e4593fc0e46c393415279743586e6",
+    "sample_data_token": "531e4593fc0e46c393415279743586e6",
+    "filename": "panoptic/v1.0-mini/531e4593fc0e46c393415279743586e6_panoptic.npz"
+  },
+  {
+    "token": "f00a4081c44c4cdaa3292107041633f2",
+    "sample_data_token": "f00a4081c44c4cdaa3292107041633f2",
+    "filename": "panoptic/v1.0-mini/f00a4081c44c4cdaa3292107041633f2_panoptic.npz"
+  },
+  {
+    "token": "acbffeaf383e4fad8b14a580ffaab052",
+    "sample_data_token": "acbffeaf383e4fad8b14a580ffaab052",
+    "filename": "panoptic/v1.0-mini/acbffeaf383e4fad8b14a580ffaab052_panoptic.npz"
+  },
+  {
+    "token": "159bf84dfb134dada96732c55061fb63",
+    "sample_data_token": "159bf84dfb134dada96732c55061fb63",
+    "filename": "panoptic/v1.0-mini/159bf84dfb134dada96732c55061fb63_panoptic.npz"
+  },
+  {
+    "token": "cefe3d3fd2e84ea9872aec67024e35a5",
+    "sample_data_token": "cefe3d3fd2e84ea9872aec67024e35a5",
+    "filename": "panoptic/v1.0-mini/cefe3d3fd2e84ea9872aec67024e35a5_panoptic.npz"
+  },
+  {
+    "token": "ced4b55ba0954d4cba144e4e6cbe7efc",
+    "sample_data_token": "ced4b55ba0954d4cba144e4e6cbe7efc",
+    "filename": "panoptic/v1.0-mini/ced4b55ba0954d4cba144e4e6cbe7efc_panoptic.npz"
+  },
+  {
+    "token": "6df51a723dd74012973f2a9600f79688",
+    "sample_data_token": "6df51a723dd74012973f2a9600f79688",
+    "filename": "panoptic/v1.0-mini/6df51a723dd74012973f2a9600f79688_panoptic.npz"
+  },
+  {
+    "token": "43d5b80ebe6b4aafa64ae88bf923a7e9",
+    "sample_data_token": "43d5b80ebe6b4aafa64ae88bf923a7e9",
+    "filename": "panoptic/v1.0-mini/43d5b80ebe6b4aafa64ae88bf923a7e9_panoptic.npz"
+  },
+  {
+    "token": "83e831cdb74d491e897a39dd7c2e5f2b",
+    "sample_data_token": "83e831cdb74d491e897a39dd7c2e5f2b",
+    "filename": "panoptic/v1.0-mini/83e831cdb74d491e897a39dd7c2e5f2b_panoptic.npz"
+  },
+  {
+    "token": "c406776798d847e29a03ef2a4c801f41",
+    "sample_data_token": "c406776798d847e29a03ef2a4c801f41",
+    "filename": "panoptic/v1.0-mini/c406776798d847e29a03ef2a4c801f41_panoptic.npz"
+  },
+  {
+    "token": "36fef290c36a4aff8f66f58de617480a",
+    "sample_data_token": "36fef290c36a4aff8f66f58de617480a",
+    "filename": "panoptic/v1.0-mini/36fef290c36a4aff8f66f58de617480a_panoptic.npz"
+  },
+  {
+    "token": "5deba590a3e04b70bde08ce180ae5221",
+    "sample_data_token": "5deba590a3e04b70bde08ce180ae5221",
+    "filename": "panoptic/v1.0-mini/5deba590a3e04b70bde08ce180ae5221_panoptic.npz"
+  },
+  {
+    "token": "bd7f9a8a1cf842ab8e6647675c8fca45",
+    "sample_data_token": "bd7f9a8a1cf842ab8e6647675c8fca45",
+    "filename": "panoptic/v1.0-mini/bd7f9a8a1cf842ab8e6647675c8fca45_panoptic.npz"
+  },
+  {
+    "token": "ff9c5ce617164ff8b86931626aa72b63",
+    "sample_data_token": "ff9c5ce617164ff8b86931626aa72b63",
+    "filename": "panoptic/v1.0-mini/ff9c5ce617164ff8b86931626aa72b63_panoptic.npz"
+  },
+  {
+    "token": "09fcf8699529477784bfc9c8c6559ef9",
+    "sample_data_token": "09fcf8699529477784bfc9c8c6559ef9",
+    "filename": "panoptic/v1.0-mini/09fcf8699529477784bfc9c8c6559ef9_panoptic.npz"
+  },
+  {
+    "token": "b7e30c7d851d4f428d84c91596068e02",
+    "sample_data_token": "b7e30c7d851d4f428d84c91596068e02",
+    "filename": "panoptic/v1.0-mini/b7e30c7d851d4f428d84c91596068e02_panoptic.npz"
+  },
+  {
+    "token": "0f92b1a57bf84db0b72c22752662ebe6",
+    "sample_data_token": "0f92b1a57bf84db0b72c22752662ebe6",
+    "filename": "panoptic/v1.0-mini/0f92b1a57bf84db0b72c22752662ebe6_panoptic.npz"
+  },
+  {
+    "token": "e50641a59d3e498b9d036b7bc5836d81",
+    "sample_data_token": "e50641a59d3e498b9d036b7bc5836d81",
+    "filename": "panoptic/v1.0-mini/e50641a59d3e498b9d036b7bc5836d81_panoptic.npz"
+  },
+  {
+    "token": "6ae83cd380c2415ba55f4d9dff2e8f1a",
+    "sample_data_token": "6ae83cd380c2415ba55f4d9dff2e8f1a",
+    "filename": "panoptic/v1.0-mini/6ae83cd380c2415ba55f4d9dff2e8f1a_panoptic.npz"
+  },
+  {
+    "token": "b30f1f4f6ad4440fa0cf59cced0f2ad9",
+    "sample_data_token": "b30f1f4f6ad4440fa0cf59cced0f2ad9",
+    "filename": "panoptic/v1.0-mini/b30f1f4f6ad4440fa0cf59cced0f2ad9_panoptic.npz"
+  },
+  {
+    "token": "62204c77ef23492a91226fca8847700b",
+    "sample_data_token": "62204c77ef23492a91226fca8847700b",
+    "filename": "panoptic/v1.0-mini/62204c77ef23492a91226fca8847700b_panoptic.npz"
+  },
+  {
+    "token": "20e45bdb8c5d412c907d5db0dc6749ab",
+    "sample_data_token": "20e45bdb8c5d412c907d5db0dc6749ab",
+    "filename": "panoptic/v1.0-mini/20e45bdb8c5d412c907d5db0dc6749ab_panoptic.npz"
+  },
+  {
+    "token": "c4b1457d7c684d709a01d93d9b16810b",
+    "sample_data_token": "c4b1457d7c684d709a01d93d9b16810b",
+    "filename": "panoptic/v1.0-mini/c4b1457d7c684d709a01d93d9b16810b_panoptic.npz"
+  },
+  {
+    "token": "b439e578bd014fd6ad8170dc787c9ff8",
+    "sample_data_token": "b439e578bd014fd6ad8170dc787c9ff8",
+    "filename": "panoptic/v1.0-mini/b439e578bd014fd6ad8170dc787c9ff8_panoptic.npz"
+  },
+  {
+    "token": "9ed2218da68f4d81b3bdd5ace6d12113",
+    "sample_data_token": "9ed2218da68f4d81b3bdd5ace6d12113",
+    "filename": "panoptic/v1.0-mini/9ed2218da68f4d81b3bdd5ace6d12113_panoptic.npz"
+  },
+  {
+    "token": "5aa7b01e3c0648309532b83a2baf2af7",
+    "sample_data_token": "5aa7b01e3c0648309532b83a2baf2af7",
+    "filename": "panoptic/v1.0-mini/5aa7b01e3c0648309532b83a2baf2af7_panoptic.npz"
+  },
+  {
+    "token": "3fffefbdecd14ac1aa23f46a78173e27",
+    "sample_data_token": "3fffefbdecd14ac1aa23f46a78173e27",
+    "filename": "panoptic/v1.0-mini/3fffefbdecd14ac1aa23f46a78173e27_panoptic.npz"
+  },
+  {
+    "token": "c13656cc70af4875a2836e5de8baa642",
+    "sample_data_token": "c13656cc70af4875a2836e5de8baa642",
+    "filename": "panoptic/v1.0-mini/c13656cc70af4875a2836e5de8baa642_panoptic.npz"
+  },
+  {
+    "token": "82b48fbe54084bdebb272000b2c1e764",
+    "sample_data_token": "82b48fbe54084bdebb272000b2c1e764",
+    "filename": "panoptic/v1.0-mini/82b48fbe54084bdebb272000b2c1e764_panoptic.npz"
+  },
+  {
+    "token": "38dc24a4b6b644dd96384c25f3692aaf",
+    "sample_data_token": "38dc24a4b6b644dd96384c25f3692aaf",
+    "filename": "panoptic/v1.0-mini/38dc24a4b6b644dd96384c25f3692aaf_panoptic.npz"
+  },
+  {
+    "token": "e295bae3d72c4f329ac279f2a232bd0f",
+    "sample_data_token": "e295bae3d72c4f329ac279f2a232bd0f",
+    "filename": "panoptic/v1.0-mini/e295bae3d72c4f329ac279f2a232bd0f_panoptic.npz"
+  },
+  {
+    "token": "dcf4bf8309a446eca57c9295204aabe0",
+    "sample_data_token": "dcf4bf8309a446eca57c9295204aabe0",
+    "filename": "panoptic/v1.0-mini/dcf4bf8309a446eca57c9295204aabe0_panoptic.npz"
+  },
+  {
+    "token": "3256a2a0621d4938b5d210cdc5026067",
+    "sample_data_token": "3256a2a0621d4938b5d210cdc5026067",
+    "filename": "panoptic/v1.0-mini/3256a2a0621d4938b5d210cdc5026067_panoptic.npz"
+  },
+  {
+    "token": "6f50f208157f4f679d42d6efa4336d50",
+    "sample_data_token": "6f50f208157f4f679d42d6efa4336d50",
+    "filename": "panoptic/v1.0-mini/6f50f208157f4f679d42d6efa4336d50_panoptic.npz"
+  },
+  {
+    "token": "3797ea02ce0247a1ab5c438552695047",
+    "sample_data_token": "3797ea02ce0247a1ab5c438552695047",
+    "filename": "panoptic/v1.0-mini/3797ea02ce0247a1ab5c438552695047_panoptic.npz"
+  },
+  {
+    "token": "b723df2123fe473d85512c9d02156c27",
+    "sample_data_token": "b723df2123fe473d85512c9d02156c27",
+    "filename": "panoptic/v1.0-mini/b723df2123fe473d85512c9d02156c27_panoptic.npz"
+  },
+  {
+    "token": "a64fc7d1153249f293676a686c9b705d",
+    "sample_data_token": "a64fc7d1153249f293676a686c9b705d",
+    "filename": "panoptic/v1.0-mini/a64fc7d1153249f293676a686c9b705d_panoptic.npz"
+  },
+  {
+    "token": "03510a45057547c2b7361e3950dcdf6d",
+    "sample_data_token": "03510a45057547c2b7361e3950dcdf6d",
+    "filename": "panoptic/v1.0-mini/03510a45057547c2b7361e3950dcdf6d_panoptic.npz"
+  },
+  {
+    "token": "4dc98064647f400bb2e797f95e4500cb",
+    "sample_data_token": "4dc98064647f400bb2e797f95e4500cb",
+    "filename": "panoptic/v1.0-mini/4dc98064647f400bb2e797f95e4500cb_panoptic.npz"
+  },
+  {
+    "token": "e01250e2b756499082d7051f93dd6028",
+    "sample_data_token": "e01250e2b756499082d7051f93dd6028",
+    "filename": "panoptic/v1.0-mini/e01250e2b756499082d7051f93dd6028_panoptic.npz"
+  },
+  {
+    "token": "51cf60deff4d4a71a0bcd2476d734b68",
+    "sample_data_token": "51cf60deff4d4a71a0bcd2476d734b68",
+    "filename": "panoptic/v1.0-mini/51cf60deff4d4a71a0bcd2476d734b68_panoptic.npz"
+  },
+  {
+    "token": "1cbca681f61f435283dcc08adc24b57f",
+    "sample_data_token": "1cbca681f61f435283dcc08adc24b57f",
+    "filename": "panoptic/v1.0-mini/1cbca681f61f435283dcc08adc24b57f_panoptic.npz"
+  },
+  {
+    "token": "65210739f5274f268ceb8c63e45e68f4",
+    "sample_data_token": "65210739f5274f268ceb8c63e45e68f4",
+    "filename": "panoptic/v1.0-mini/65210739f5274f268ceb8c63e45e68f4_panoptic.npz"
+  },
+  {
+    "token": "500885ba456b405ebb59ab9a0358b0ae",
+    "sample_data_token": "500885ba456b405ebb59ab9a0358b0ae",
+    "filename": "panoptic/v1.0-mini/500885ba456b405ebb59ab9a0358b0ae_panoptic.npz"
+  },
+  {
+    "token": "474f8b1764544249a8c1b91c2430f71f",
+    "sample_data_token": "474f8b1764544249a8c1b91c2430f71f",
+    "filename": "panoptic/v1.0-mini/474f8b1764544249a8c1b91c2430f71f_panoptic.npz"
+  },
+  {
+    "token": "33480893f81740c4918302729a3fba06",
+    "sample_data_token": "33480893f81740c4918302729a3fba06",
+    "filename": "panoptic/v1.0-mini/33480893f81740c4918302729a3fba06_panoptic.npz"
+  },
+  {
+    "token": "4d9b4477402c492a84e707aa8ff72e52",
+    "sample_data_token": "4d9b4477402c492a84e707aa8ff72e52",
+    "filename": "panoptic/v1.0-mini/4d9b4477402c492a84e707aa8ff72e52_panoptic.npz"
+  },
+  {
+    "token": "cf0243e7bafc4ea691505285b5a5d096",
+    "sample_data_token": "cf0243e7bafc4ea691505285b5a5d096",
+    "filename": "panoptic/v1.0-mini/cf0243e7bafc4ea691505285b5a5d096_panoptic.npz"
+  },
+  {
+    "token": "28082e3d115f4512a9668354eb2391f7",
+    "sample_data_token": "28082e3d115f4512a9668354eb2391f7",
+    "filename": "panoptic/v1.0-mini/28082e3d115f4512a9668354eb2391f7_panoptic.npz"
+  },
+  {
+    "token": "b027389b996a487d958ad438145b316a",
+    "sample_data_token": "b027389b996a487d958ad438145b316a",
+    "filename": "panoptic/v1.0-mini/b027389b996a487d958ad438145b316a_panoptic.npz"
+  },
+  {
+    "token": "e5b494e154054645a56b981b2542a568",
+    "sample_data_token": "e5b494e154054645a56b981b2542a568",
+    "filename": "panoptic/v1.0-mini/e5b494e154054645a56b981b2542a568_panoptic.npz"
+  },
+  {
+    "token": "c2b6c6405b7746828089305baf0be09e",
+    "sample_data_token": "c2b6c6405b7746828089305baf0be09e",
+    "filename": "panoptic/v1.0-mini/c2b6c6405b7746828089305baf0be09e_panoptic.npz"
+  },
+  {
+    "token": "26e5af11777c423691ee4ecd5efc22ad",
+    "sample_data_token": "26e5af11777c423691ee4ecd5efc22ad",
+    "filename": "panoptic/v1.0-mini/26e5af11777c423691ee4ecd5efc22ad_panoptic.npz"
+  },
+  {
+    "token": "13190d5fa4e6464d90cdae484b134029",
+    "sample_data_token": "13190d5fa4e6464d90cdae484b134029",
+    "filename": "panoptic/v1.0-mini/13190d5fa4e6464d90cdae484b134029_panoptic.npz"
+  },
+  {
+    "token": "3a9531b0c656401292aa52e8e1741db2",
+    "sample_data_token": "3a9531b0c656401292aa52e8e1741db2",
+    "filename": "panoptic/v1.0-mini/3a9531b0c656401292aa52e8e1741db2_panoptic.npz"
+  },
+  {
+    "token": "d347b5c478b74796abed1a10ff464e7f",
+    "sample_data_token": "d347b5c478b74796abed1a10ff464e7f",
+    "filename": "panoptic/v1.0-mini/d347b5c478b74796abed1a10ff464e7f_panoptic.npz"
+  },
+  {
+    "token": "80bccf7217974ff88fc90aeabbd06cd9",
+    "sample_data_token": "80bccf7217974ff88fc90aeabbd06cd9",
+    "filename": "panoptic/v1.0-mini/80bccf7217974ff88fc90aeabbd06cd9_panoptic.npz"
+  },
+  {
+    "token": "b0414855b9ef489fb3cfbf632437a099",
+    "sample_data_token": "b0414855b9ef489fb3cfbf632437a099",
+    "filename": "panoptic/v1.0-mini/b0414855b9ef489fb3cfbf632437a099_panoptic.npz"
+  },
+  {
+    "token": "961ec15476e447b083e0e6942dfb2507",
+    "sample_data_token": "961ec15476e447b083e0e6942dfb2507",
+    "filename": "panoptic/v1.0-mini/961ec15476e447b083e0e6942dfb2507_panoptic.npz"
+  },
+  {
+    "token": "1db9636af66847f48c67b78ed7abe924",
+    "sample_data_token": "1db9636af66847f48c67b78ed7abe924",
+    "filename": "panoptic/v1.0-mini/1db9636af66847f48c67b78ed7abe924_panoptic.npz"
+  },
+  {
+    "token": "4ac1a1868ec9433d899b9e5a530c2da4",
+    "sample_data_token": "4ac1a1868ec9433d899b9e5a530c2da4",
+    "filename": "panoptic/v1.0-mini/4ac1a1868ec9433d899b9e5a530c2da4_panoptic.npz"
+  },
+  {
+    "token": "ad6ed998c429493e9e3c769a8766520f",
+    "sample_data_token": "ad6ed998c429493e9e3c769a8766520f",
+    "filename": "panoptic/v1.0-mini/ad6ed998c429493e9e3c769a8766520f_panoptic.npz"
+  },
+  {
+    "token": "c34fd1d1fe324be19b99254fbefe1fc7",
+    "sample_data_token": "c34fd1d1fe324be19b99254fbefe1fc7",
+    "filename": "panoptic/v1.0-mini/c34fd1d1fe324be19b99254fbefe1fc7_panoptic.npz"
+  },
+  {
+    "token": "f1e22417afdf40b6b4d6ce0cdb7bda62",
+    "sample_data_token": "f1e22417afdf40b6b4d6ce0cdb7bda62",
+    "filename": "panoptic/v1.0-mini/f1e22417afdf40b6b4d6ce0cdb7bda62_panoptic.npz"
+  },
+  {
+    "token": "0fadce38a46c4f8ebfdaf1f2d8d853cc",
+    "sample_data_token": "0fadce38a46c4f8ebfdaf1f2d8d853cc",
+    "filename": "panoptic/v1.0-mini/0fadce38a46c4f8ebfdaf1f2d8d853cc_panoptic.npz"
+  },
+  {
+    "token": "11e4c8e9cc2649548310bdbacf886b5d",
+    "sample_data_token": "11e4c8e9cc2649548310bdbacf886b5d",
+    "filename": "panoptic/v1.0-mini/11e4c8e9cc2649548310bdbacf886b5d_panoptic.npz"
+  },
+  {
+    "token": "da349c581e8f4905bd921dac23322f81",
+    "sample_data_token": "da349c581e8f4905bd921dac23322f81",
+    "filename": "panoptic/v1.0-mini/da349c581e8f4905bd921dac23322f81_panoptic.npz"
+  },
+  {
+    "token": "f8a059bf1c5143e7a860c3070829326e",
+    "sample_data_token": "f8a059bf1c5143e7a860c3070829326e",
+    "filename": "panoptic/v1.0-mini/f8a059bf1c5143e7a860c3070829326e_panoptic.npz"
+  },
+  {
+    "token": "382de18dad304a4f81692ac6b35b3836",
+    "sample_data_token": "382de18dad304a4f81692ac6b35b3836",
+    "filename": "panoptic/v1.0-mini/382de18dad304a4f81692ac6b35b3836_panoptic.npz"
+  },
+  {
+    "token": "726e07214b9a4914b6aee2ab19714dbe",
+    "sample_data_token": "726e07214b9a4914b6aee2ab19714dbe",
+    "filename": "panoptic/v1.0-mini/726e07214b9a4914b6aee2ab19714dbe_panoptic.npz"
+  },
+  {
+    "token": "a3f72937ffd14cfcaeb1a76ca65a9144",
+    "sample_data_token": "a3f72937ffd14cfcaeb1a76ca65a9144",
+    "filename": "panoptic/v1.0-mini/a3f72937ffd14cfcaeb1a76ca65a9144_panoptic.npz"
+  },
+  {
+    "token": "3bb2d52afb664af09e24b313122f8d24",
+    "sample_data_token": "3bb2d52afb664af09e24b313122f8d24",
+    "filename": "panoptic/v1.0-mini/3bb2d52afb664af09e24b313122f8d24_panoptic.npz"
+  },
+  {
+    "token": "3f7ae86f28f84174b3cf7d4f4c8d9335",
+    "sample_data_token": "3f7ae86f28f84174b3cf7d4f4c8d9335",
+    "filename": "panoptic/v1.0-mini/3f7ae86f28f84174b3cf7d4f4c8d9335_panoptic.npz"
+  },
+  {
+    "token": "4f8e6d77f3514815ba95220dbf42b5d3",
+    "sample_data_token": "4f8e6d77f3514815ba95220dbf42b5d3",
+    "filename": "panoptic/v1.0-mini/4f8e6d77f3514815ba95220dbf42b5d3_panoptic.npz"
+  },
+  {
+    "token": "e7d9eec0e14a4a25beffd451517b520e",
+    "sample_data_token": "e7d9eec0e14a4a25beffd451517b520e",
+    "filename": "panoptic/v1.0-mini/e7d9eec0e14a4a25beffd451517b520e_panoptic.npz"
+  }
+]
